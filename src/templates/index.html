@@ -1,0 +1,214 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Visual Character</title>
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/twitter-bootstrap/3.3.7/css/bootstrap.min.css"/>
+    <link rel="stylesheet" href="https://ajax.googleapis.com/ajax/libs/jqueryui/1.12.1/themes/smoothness/jquery-ui.css">
+    <link href="https://fonts.googleapis.com/css?family=Roboto+Condensed:300" rel="stylesheet">
+    <style>
+    BODY {
+        font-family: 'Roboto Condensed', sans-serif;
+        background: #222;
+        color: #FFF;
+        -webkit-transition: all 0.5s; /* Safari */
+        transition: all 0.5s;
+    }
+    UL {
+        list-style: none;
+        margin: 0px;
+        padding: 0px;
+        height: 400px;
+        overflow-y:scroll;
+    }
+    .spell .spell-level {
+        padding: 3px;
+        position:absolute;
+        top: 0px;
+        font-size: 90%;
+        right: 0px;
+    }
+    .spell .spell-school {
+        padding: 3px;
+        position:absolute;
+        top: 12px;
+        font-size: 90%;
+        right: 0px;
+    }
+
+    .known-spell {
+        position:relative;
+        background: rgba(0,0,0,0.4);
+        padding: 4px;
+        border: solid 1px #999;
+        margin-bottom: 8px;
+    }
+    .known-spell .drag-handle {
+        cursor: move;
+    }
+    .known-spell .extra-info {
+        width: auto;
+        transition: height 2s;
+        height: 0px;
+        overflow: hidden;
+    }
+    .known-spell .extra-info-toggle {
+        text-align: center;
+        background: rgba(0,0,0,0.2);
+        cursor: pointer;
+        padding: 4px;
+    }
+    .known-spell .extra-info-toggle:hover {
+        background: rgba(255,255,255,0.1);
+    }
+    .known-spell.expanded .extra-info-toggle {
+        background: rgba(0,0,0,0.4);
+    }
+    .known-spell .extra-info-toggle:after {
+        display:block;
+        content: "\25BC";
+        transition: transform 0.5s;
+    }
+
+    .known-spell.expanded .extra-info {
+        display: block;
+        height: auto;
+    }
+    .known-spell.expanded .extra-info-toggle:after {
+        /* Rotate the caret */
+        -ms-transform: rotate(180deg); /* IE 9 */
+        -webkit-transform: rotate(180deg); /* Chrome, Safari, Opera */
+        transform: rotate(180deg);
+    }
+
+    .known-spell.expanded .extra-info .action {
+        margin-top: 16px;
+    }
+    .known-spell.expanded .extra-info .target:before {
+        content: 'target';
+        font-size: 80%;
+        position:absolute;
+        top: -16px;
+        left: 0px;
+    }
+    .known-spell.expanded .extra-info .save:before {
+        content: 'save';
+        font-size: 80%;
+        position:absolute;
+        top: -16px;
+        left: 0px;
+    }
+    .known-spell.expanded .extra-info .duration {
+        text-align:right;
+    }
+
+
+    .spell-slot {
+        margin: 2px;
+        box-shadow: #000 0px 0px 4px;
+        text-align: center;
+        position: relative;
+        padding-top:8px;
+    }
+    .spell-slot.filled {
+        background: rgba(100,255,120, 0.2);
+    }
+    .spell-slot.filled.used {
+        background: rgba(100,100,120, 0.4);
+    }
+    .spell-slot .spell-name {
+        padding:4px;
+        margin: 2px auto;
+        width: 80%;
+        border: 2px #CCC dashed;
+        font-size:150%;
+        box-shadow: inset #000 0px 0px 10px;
+    }
+    .spell-slot .level {
+        text-align: left;
+        padding: 4px;
+    }
+    .spell-slot .school-restriction {
+        text-align:right;
+        padding: 4px;
+        position:absolute;
+        bottom:0px;
+        right: 0px;
+    }
+    .spell-slot.ui-droppable-active {
+        background: rgba(250,230,180, 0.3);
+    }
+    .spell-slot.school-specific {
+        background: rgba(100,100,250, 0.1);
+    }
+    .spell-slot.ui-droppable-active.school-specific {
+        background: rgba(100,100,250, 0.2);
+    }
+    /*.spell-slot.ui-droppable-active.ui-droppable-hover {
+        background: rgba(250,230,180, 0.5);
+    }*/
+    .spell-slot.ui-droppable-active.ui-droppable-hover .spell-name {
+        background: rgba(250,230,100, 0.7);
+    }
+
+
+    .composite-stat {
+        text-align:center;
+        display:inline-block;
+        font-size: 130%;
+        cursor: pointer;
+        width: 32px;
+        height: 32px;
+        border-radius: 16px;
+        padding: 0px;
+    }
+
+    .unit-stat {
+        text-align:center;
+        display:inline-block;
+        font-size: 95%;
+        cursor: pointer;
+        border-radius: 12px;
+        padding-left: 4px;
+        padding-right: 4px;
+    }
+
+    .tab-button {
+        text-align:center;
+        padding-top: 8px;
+        cursor: pointer;
+        background: rgba(100,100,255,0.4);
+    }
+    .tab-button:hover {
+        color: #FDC;
+    }
+    .tab-button.active {
+        box-shadow: inset #000 0px 15px 30px;
+        background: transparent;
+    }
+    .tab-button .icon {
+        font-size: 300%;
+    }
+
+    .ButtonModal {
+        text-align:left;
+    }
+    .modal-content {
+        background: #333;
+    }
+    .modal-body {
+        width: 100%;
+    }
+
+    </style>
+</head>
+<body>
+    <div id="root"></div>
+    <div id="scripts">
+        <script src="https://cdnjs.cloudflare.com/ajax/libs/react/15.3.1/react.js"></script>
+        <script src="https://cdnjs.cloudflare.com/ajax/libs/react/15.3.1/react-dom.js"></script>
+        <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.2.1/jquery.min.js"></script>
+        <script src="https://ajax.googleapis.com/ajax/libs/jqueryui/1.12.1/jquery-ui.min.js"></script>
+        <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js"></script>
+    </div>
+<body>
+</html>

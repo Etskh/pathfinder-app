@@ -1,0 +1,2461 @@
+[{
+    "name": "Dancing Lights",
+    "href": "http://paizo.com/pathfinderRPG/prd/coreRulebook/spells/dancingLights.html#dancing-lights",
+    "short_description": ": Creates torches or other lights."
+}, {
+    "name": "Daze",
+    "href": "http://paizo.com/pathfinderRPG/prd/coreRulebook/spells/daze.html#daze",
+    "short_description": ": A single humanoid creature with 4 HD or less loses its next action."
+}, {
+    "name": "Detect Magic",
+    "href": "http://paizo.com/pathfinderRPG/prd/coreRulebook/spells/detectMagic.html#detect-magic",
+    "short_description": ": Detects all spells and magic items within 60 ft."
+}, {
+    "name": "Flare",
+    "href": "http://paizo.com/pathfinderRPG/prd/coreRulebook/spells/flare.html#flare",
+    "short_description": ": Dazzles one creature (–1 on attack rolls)."
+}, {
+    "name": "Ghost Sound",
+    "href": "http://paizo.com/pathfinderRPG/prd/coreRulebook/spells/ghostSound.html#ghost-sound",
+    "short_description": ": Figment sounds."
+}, {
+    "name": "Know Direction",
+    "href": "http://paizo.com/pathfinderRPG/prd/coreRulebook/spells/knowDirection.html#know-direction",
+    "short_description": ": You discern north."
+}, {
+    "name": "Light",
+    "href": "http://paizo.com/pathfinderRPG/prd/coreRulebook/spells/light.html#light",
+    "short_description": ": Object shines like a torch."
+}, {
+    "name": "Lullaby",
+    "href": "http://paizo.com/pathfinderRPG/prd/coreRulebook/spells/lullaby.html#lullaby",
+    "short_description": ": Makes subject drowsy: –5 on Perception checks, –2 on Will saves against sleep."
+}, {
+    "name": "Mage Hand",
+    "href": "http://paizo.com/pathfinderRPG/prd/coreRulebook/spells/mageHand.html#mage-hand",
+    "short_description": ": 5-pound telekinesis."
+}, {
+    "name": "Mending",
+    "href": "http://paizo.com/pathfinderRPG/prd/coreRulebook/spells/mending.html#mending",
+    "short_description": ": Makes minor repairs on an object."
+}, {
+    "name": "Message",
+    "href": "http://paizo.com/pathfinderRPG/prd/coreRulebook/spells/message.html#message",
+    "short_description": ": Whisper conversation at distance."
+}, {
+    "name": "Open/Close",
+    "href": "http://paizo.com/pathfinderRPG/prd/coreRulebook/spells/openClose.html#open-close",
+    "short_description": ": Opens or closes small or light things."
+}, {
+    "name": "Prestidigitation",
+    "href": "http://paizo.com/pathfinderRPG/prd/coreRulebook/spells/prestidigitation.html#prestidigitation",
+    "short_description": ": Performs minor tricks."
+}, {
+    "name": "Read Magic",
+    "href": "http://paizo.com/pathfinderRPG/prd/coreRulebook/spells/readMagic.html#read-magic",
+    "short_description": ": Read scrolls and spellbooks."
+}, {
+    "name": "Resistance",
+    "href": "http://paizo.com/pathfinderRPG/prd/coreRulebook/spells/resistance.html#resistance",
+    "short_description": ": Subject gains +1 on saving throws."
+}, {
+    "name": "Summon Instrument",
+    "href": "http://paizo.com/pathfinderRPG/prd/coreRulebook/spells/summonInstrument.html#summon-instrument",
+    "short_description": ": Summons one musical instrument."
+}, {
+    "name": "Alarm",
+    "href": "http://paizo.com/pathfinderRPG/prd/coreRulebook/spells/alarm.html#alarm",
+    "short_description": ": Wards an area for 2 hours/level."
+}, {
+    "name": "Animate Rope",
+    "href": "http://paizo.com/pathfinderRPG/prd/coreRulebook/spells/animateRope.html#animate-rope",
+    "short_description": ": Makes a rope move at your command."
+}, {
+    "name": "Cause Fear",
+    "href": "http://paizo.com/pathfinderRPG/prd/coreRulebook/spells/causeFear.html#cause-fear",
+    "short_description": ": One creature of 5 HD or less flees for 1d4 rounds."
+}, {
+    "name": "Charm Person",
+    "href": "http://paizo.com/pathfinderRPG/prd/coreRulebook/spells/charmPerson.html#charm-person",
+    "short_description": ": Makes one person your friend."
+}, {
+    "name": "Comprehend Languages",
+    "href": "http://paizo.com/pathfinderRPG/prd/coreRulebook/spells/comprehendLanguages.html#comprehend-languages",
+    "short_description": ": You understand all spoken and written languages."
+}, {
+    "name": "Confusion, Lesser",
+    "href": "http://paizo.com/pathfinderRPG/prd/coreRulebook/spells/confusion.html#confusion-lesser",
+    "short_description": ": One creature is confused for 1 round."
+}, {
+    "name": "Cure Light Wounds",
+    "href": "http://paizo.com/pathfinderRPG/prd/coreRulebook/spells/cureLightWounds.html#cure-light-wounds",
+    "short_description": ": Cures 1d8 damage + 1/level (max +5)."
+}, {
+    "name": "Detect Secret Doors",
+    "href": "http://paizo.com/pathfinderRPG/prd/coreRulebook/spells/detectSecretDoors.html#detect-secret-doors",
+    "short_description": ": Reveals hidden doors within 60 ft."
+}, {
+    "name": "Disguise Self",
+    "href": "http://paizo.com/pathfinderRPG/prd/coreRulebook/spells/disguiseSelf.html#disguise-self",
+    "short_description": ": Changes your appearance."
+}, {
+    "name": "Erase",
+    "href": "http://paizo.com/pathfinderRPG/prd/coreRulebook/spells/erase.html#erase",
+    "short_description": ": Mundane or magical writing vanishes."
+}, {
+    "name": "Expeditious Retreat",
+    "href": "http://paizo.com/pathfinderRPG/prd/coreRulebook/spells/expeditiousRetreat.html#expeditious-retreat",
+    "short_description": ": Your base speed increases by 30 ft."
+}, {
+    "name": "Feather Fall",
+    "href": "http://paizo.com/pathfinderRPG/prd/coreRulebook/spells/featherFall.html#feather-fall",
+    "short_description": ": Objects or creatures fall slowly."
+}, {
+    "name": "Grease",
+    "href": "http://paizo.com/pathfinderRPG/prd/coreRulebook/spells/grease.html#grease",
+    "short_description": ": Makes 10-ft. square or one object slippery."
+}, {
+    "name": "Hideous Laughter",
+    "href": "http://paizo.com/pathfinderRPG/prd/coreRulebook/spells/hideousLaughter.html#hideous-laughter",
+    "short_description": ": Subject loses actions for 1 round/level."
+}, {
+    "name": "Hypnotism",
+    "href": "http://paizo.com/pathfinderRPG/prd/coreRulebook/spells/hypnotism.html#hypnotism",
+    "short_description": ": Fascinates 2d4 HD of creatures."
+}, {
+    "name": "Identify",
+    "href": "http://paizo.com/pathfinderRPG/prd/coreRulebook/spells/identify.html#identify",
+    "short_description": ": Gives +10 bonus to identify magic items."
+}, {
+    "name": "Magic Aura",
+    "href": "http://paizo.com/pathfinderRPG/prd/coreRulebook/spells/magicAura.html#magic-aura",
+    "short_description": ": Alters object's magic aura."
+}, {
+    "name": "Magic Mouth",
+    "href": "http://paizo.com/pathfinderRPG/prd/coreRulebook/spells/magicMouth.html#magic-mouth",
+    "short_description": "M: Object speaks once when triggered."
+}, {
+    "name": "Obscure Object",
+    "href": "http://paizo.com/pathfinderRPG/prd/coreRulebook/spells/obscureObject.html#obscure-object",
+    "short_description": ": Masks object against scrying."
+}, {
+    "name": "Remove Fear",
+    "href": "http://paizo.com/pathfinderRPG/prd/coreRulebook/spells/removeFear.html#remove-fear",
+    "short_description": ": Suppresses fear or gives +4 on saves against fear for one subject + one per four levels."
+}, {
+    "name": "Silent Image",
+    "href": "http://paizo.com/pathfinderRPG/prd/coreRulebook/spells/silentImage.html#silent-image",
+    "short_description": ": Creates minor illusion of your design."
+}, {
+    "name": "Sleep",
+    "href": "http://paizo.com/pathfinderRPG/prd/coreRulebook/spells/sleep.html#sleep",
+    "short_description": ": Puts 4 HD of creatures into magical slumber."
+}, {
+    "name": "Summon Monster I",
+    "href": "http://paizo.com/pathfinderRPG/prd/coreRulebook/spells/summonMonster.html#summon-monster-i",
+    "short_description": ": Summons extraplanar creature to fight for you."
+}, {
+    "name": "Undetectable Alignment",
+    "href": "http://paizo.com/pathfinderRPG/prd/coreRulebook/spells/undetectableAlignment.html#undetectable-alignment",
+    "short_description": ": Conceals alignment from magical detection for 24 hours."
+}, {
+    "name": "Unseen Servant",
+    "href": "http://paizo.com/pathfinderRPG/prd/coreRulebook/spells/unseenServant.html#unseen-servant",
+    "short_description": ": Invisible force obeys your commands."
+}, {
+    "name": "Ventriloquism",
+    "href": "http://paizo.com/pathfinderRPG/prd/coreRulebook/spells/ventriloquism.html#ventriloquism",
+    "short_description": ": Throws voice for 1 min./level."
+}, {
+    "name": "Alter Self",
+    "href": "http://paizo.com/pathfinderRPG/prd/coreRulebook/spells/alterSelf.html#alter-self",
+    "short_description": ": Assume form of a Small or Medium humanoid."
+}, {
+    "name": "Animal Messenger",
+    "href": "http://paizo.com/pathfinderRPG/prd/coreRulebook/spells/animalMessenger.html#animal-messenger",
+    "short_description": ": Sends a Tiny animal to a specific place."
+}, {
+    "name": "Animal Trance",
+    "href": "http://paizo.com/pathfinderRPG/prd/coreRulebook/spells/animalTrance.html#animal-trance",
+    "short_description": ": Fascinates 2d6 HD of animals."
+}, {
+    "name": "Blindness/Deafness",
+    "href": "http://paizo.com/pathfinderRPG/prd/coreRulebook/spells/blindnessDeafness.html#blindness-deafness",
+    "short_description": ": Makes subject blinded or deafened."
+}, {
+    "name": "Blur",
+    "href": "http://paizo.com/pathfinderRPG/prd/coreRulebook/spells/blur.html#blur",
+    "short_description": ": Attacks miss subject 20% of the time."
+}, {
+    "name": "Calm Emotions",
+    "href": "http://paizo.com/pathfinderRPG/prd/coreRulebook/spells/calmEmotions.html#calm-emotions",
+    "short_description": ": Calms creatures, negating emotion effects."
+}, {
+    "name": "Cat's Grace",
+    "href": "http://paizo.com/pathfinderRPG/prd/coreRulebook/spells/catSGrace.html#cat-s-grace",
+    "short_description": ": Subject gains +4 to Dex for 1 min./level."
+}, {
+    "name": "Cure Moderate Wounds",
+    "href": "http://paizo.com/pathfinderRPG/prd/coreRulebook/spells/cureModerateWounds.html#cure-moderate-wounds",
+    "short_description": ": Cures 2d8 damage +1/level (max. +10)."
+}, {
+    "name": "Darkness",
+    "href": "http://paizo.com/pathfinderRPG/prd/coreRulebook/spells/darkness.html#darkness",
+    "short_description": ": 20-ft. radius of supernatural shadow."
+}, {
+    "name": "Daze Monster",
+    "href": "http://paizo.com/pathfinderRPG/prd/coreRulebook/spells/dazeMonster.html#daze-monster",
+    "short_description": ": Living creature of 6 HD or less loses its next action."
+}, {
+    "name": "Delay Poison",
+    "href": "http://paizo.com/pathfinderRPG/prd/coreRulebook/spells/delayPoison.html#delay-poison",
+    "short_description": ": Stops poison from harming subject for 1 hour/level."
+}, {
+    "name": "Detect Thoughts",
+    "href": "http://paizo.com/pathfinderRPG/prd/coreRulebook/spells/detectThoughts.html#detect-thoughts",
+    "short_description": ": Allows \"listening\" to surface thoughts."
+}, {
+    "name": "Eagle's Splendor",
+    "href": "http://paizo.com/pathfinderRPG/prd/coreRulebook/spells/eagleSSplendor.html#eagle-s-splendor",
+    "short_description": ": Subject gains +4 to Cha for 1 min./level."
+}, {
+    "name": "Enthrall",
+    "href": "http://paizo.com/pathfinderRPG/prd/coreRulebook/spells/enthrall.html#enthrall",
+    "short_description": ": Captivates all within 100 ft. + 10 ft./level."
+}, {
+    "name": "Fox's Cunning",
+    "href": "http://paizo.com/pathfinderRPG/prd/coreRulebook/spells/foxSCunning.html#fox-s-cunning",
+    "short_description": ": Subject gains +4 to Int for 1 min./level."
+}, {
+    "name": "Glitterdust",
+    "href": "http://paizo.com/pathfinderRPG/prd/coreRulebook/spells/glitterdust.html#glitterdust",
+    "short_description": ": Blinds creatures, outlines invisible creatures."
+}, {
+    "name": "Heroism",
+    "href": "http://paizo.com/pathfinderRPG/prd/coreRulebook/spells/heroism.html#heroism",
+    "short_description": ": Gives +2 bonus on attack rolls, saves, skill checks."
+}, {
+    "name": "Hold Person",
+    "href": "http://paizo.com/pathfinderRPG/prd/coreRulebook/spells/holdPerson.html#hold-person",
+    "short_description": ": Paralyzes one humanoid for 1 round/level."
+}, {
+    "name": "Hypnotic Pattern",
+    "href": "http://paizo.com/pathfinderRPG/prd/coreRulebook/spells/hypnoticPattern.html#hypnotic-pattern",
+    "short_description": ": Fascinates 2d4 + level HD of creatures."
+}, {
+    "name": "Invisibility",
+    "href": "http://paizo.com/pathfinderRPG/prd/coreRulebook/spells/invisibility.html#invisibility",
+    "short_description": ": Subject is invisible for 1 min./level or until it attacks."
+}, {
+    "name": "Locate Object",
+    "href": "http://paizo.com/pathfinderRPG/prd/coreRulebook/spells/locateObject.html#locate-object",
+    "short_description": ": Senses direction toward object (specific or type)."
+}, {
+    "name": "Minor Image",
+    "href": "http://paizo.com/pathfinderRPG/prd/coreRulebook/spells/minorImage.html#minor-image",
+    "short_description": ": As silent image, plus some sound."
+}, {
+    "name": "Mirror Image",
+    "href": "http://paizo.com/pathfinderRPG/prd/coreRulebook/spells/mirrorImage.html#mirror-image",
+    "short_description": ": Creates decoy duplicates of you."
+}, {
+    "name": "Misdirection",
+    "href": "http://paizo.com/pathfinderRPG/prd/coreRulebook/spells/misdirection.html#misdirection",
+    "short_description": ": Misleads divinations for 1 creature or object."
+}, {
+    "name": "Pyrotechnics",
+    "href": "http://paizo.com/pathfinderRPG/prd/coreRulebook/spells/pyrotechnics.html#pyrotechnics",
+    "short_description": ": Turns fire into blinding light or thick smoke."
+}, {
+    "name": "Rage",
+    "href": "http://paizo.com/pathfinderRPG/prd/coreRulebook/spells/rage.html#rage",
+    "short_description": ": Gives +2 to Str and Con, +1 on Will saves, –2 to AC."
+}, {
+    "name": "Scare",
+    "href": "http://paizo.com/pathfinderRPG/prd/coreRulebook/spells/scare.html#scare",
+    "short_description": ": Frightens creatures of less than 6 HD."
+}, {
+    "name": "Shatter",
+    "href": "http://paizo.com/pathfinderRPG/prd/coreRulebook/spells/shatter.html#shatter",
+    "short_description": ": Sonic energy damages objects or crystalline creatures."
+}, {
+    "name": "Silence",
+    "href": "http://paizo.com/pathfinderRPG/prd/coreRulebook/spells/silence.html#silence",
+    "short_description": ": Negates sound in 20-ft. radius."
+}, {
+    "name": "Sound Burst",
+    "href": "http://paizo.com/pathfinderRPG/prd/coreRulebook/spells/soundBurst.html#sound-burst",
+    "short_description": ": Deals 1d8 sonic damage to subjects; may stun them."
+}, {
+    "name": "Suggestion",
+    "href": "http://paizo.com/pathfinderRPG/prd/coreRulebook/spells/suggestion.html#suggestion",
+    "short_description": ": Compels a subject to follow stated course of action."
+}, {
+    "name": "Summon Monster II",
+    "href": "http://paizo.com/pathfinderRPG/prd/coreRulebook/spells/summonMonster.html#summon-monster-ii",
+    "short_description": ": Summons extraplanar creature to fight for you."
+}, {
+    "name": "Summon Swarm",
+    "href": "http://paizo.com/pathfinderRPG/prd/coreRulebook/spells/summonSwarm.html#summon-swarm",
+    "short_description": ": Summons swarm of bats, rats, or spiders."
+}, {
+    "name": "Tongues",
+    "href": "http://paizo.com/pathfinderRPG/prd/coreRulebook/spells/tongues.html#tongues",
+    "short_description": ": Speak and understand any language."
+}, {
+    "name": "Whispering Wind",
+    "href": "http://paizo.com/pathfinderRPG/prd/coreRulebook/spells/whisperingWind.html#whispering-wind",
+    "short_description": ": Sends a short message 1 mile/level."
+}, {
+    "name": "Blink",
+    "href": "http://paizo.com/pathfinderRPG/prd/coreRulebook/spells/blink.html#blink",
+    "short_description": ": You randomly vanish and reappear for 1 round per level."
+}, {
+    "name": "Charm Monster",
+    "href": "http://paizo.com/pathfinderRPG/prd/coreRulebook/spells/charmMonster.html#charm-monster",
+    "short_description": ": Makes monster believe it is your ally."
+}, {
+    "name": "Clairaudience/Clairvoyance",
+    "href": "http://paizo.com/pathfinderRPG/prd/coreRulebook/spells/clairaudienceClairvoyance.html#clairaudience-clairvoyance",
+    "short_description": ": Hear or see at a distance for 1 min./level."
+}, {
+    "name": "Confusion",
+    "href": "http://paizo.com/pathfinderRPG/prd/coreRulebook/spells/confusion.html#confusion",
+    "short_description": ": Subjects behave oddly for 1 round/level."
+}, {
+    "name": "Crushing Despair",
+    "href": "http://paizo.com/pathfinderRPG/prd/coreRulebook/spells/crushingDespair.html#crushing-despair",
+    "short_description": ": Subjects take –2 on attack rolls, damage rolls, saves, and checks."
+}, {
+    "name": "Cure Serious Wounds",
+    "href": "http://paizo.com/pathfinderRPG/prd/coreRulebook/spells/cureSeriousWounds.html#cure-serious-wounds",
+    "short_description": ": Cures 3d8 damage + 1/level (max +15)."
+}, {
+    "name": "Daylight",
+    "href": "http://paizo.com/pathfinderRPG/prd/coreRulebook/spells/daylight.html#daylight",
+    "short_description": ": 60-ft. radius of bright light."
+}, {
+    "name": "Deep Slumber",
+    "href": "http://paizo.com/pathfinderRPG/prd/coreRulebook/spells/deepSlumber.html#deep-slumber",
+    "short_description": ": Puts 10 HD of creatures to sleep."
+}, {
+    "name": "Dispel Magic",
+    "href": "http://paizo.com/pathfinderRPG/prd/coreRulebook/spells/dispelMagic.html#dispel-magic",
+    "short_description": ": Cancels one magical spell or effect."
+}, {
+    "name": "Displacement",
+    "href": "http://paizo.com/pathfinderRPG/prd/coreRulebook/spells/displacement.html#displacement",
+    "short_description": ": Attacks miss subject 50% of the time."
+}, {
+    "name": "Fear",
+    "href": "http://paizo.com/pathfinderRPG/prd/coreRulebook/spells/fear.html#fear",
+    "short_description": ": Subjects within cone flee for 1 round/level."
+}, {
+    "name": "Gaseous Form",
+    "href": "http://paizo.com/pathfinderRPG/prd/coreRulebook/spells/gaseousForm.html#gaseous-form",
+    "short_description": ": Subject becomes insubstantial and can fly slowly."
+}, {
+    "name": "Geas, Lesser",
+    "href": "http://paizo.com/pathfinderRPG/prd/coreRulebook/spells/geasQuest.html#geas-lesser",
+    "short_description": ": Commands subject of 7 HD or less."
+}, {
+    "name": "Glibness",
+    "href": "http://paizo.com/pathfinderRPG/prd/coreRulebook/spells/glibness.html#glibness",
+    "short_description": ": You gain +20 bonus on Bluff checks, and your lies can escape magical discernment."
+}, {
+    "name": "Good Hope",
+    "href": "http://paizo.com/pathfinderRPG/prd/coreRulebook/spells/goodHope.html#good-hope",
+    "short_description": ": Subjects gain +2 on attack rolls, damage rolls, saves, and checks."
+}, {
+    "name": "Haste",
+    "href": "http://paizo.com/pathfinderRPG/prd/coreRulebook/spells/haste.html#haste",
+    "short_description": ": One creature/level moves faster, +1 on attack rolls, AC, and Reflex saves."
+}, {
+    "name": "Illusory Script",
+    "href": "http://paizo.com/pathfinderRPG/prd/coreRulebook/spells/illusoryScript.html#illusory-script",
+    "short_description": "M: Only select creatures can read text."
+}, {
+    "name": "Invisibility Sphere",
+    "href": "http://paizo.com/pathfinderRPG/prd/coreRulebook/spells/invisibilitySphere.html#invisibility-sphere",
+    "short_description": ": Makes everyone within 10 ft. invisible."
+}, {
+    "name": "Major Image",
+    "href": "http://paizo.com/pathfinderRPG/prd/coreRulebook/spells/majorImage.html#major-image",
+    "short_description": ": As silent image, plus sound, smell and thermal effects."
+}, {
+    "name": "Phantom Steed",
+    "href": "http://paizo.com/pathfinderRPG/prd/coreRulebook/spells/phantomSteed.html#phantom-steed",
+    "short_description": ": Magic horse appears for 1 hour/level."
+}, {
+    "name": "Remove Curse",
+    "href": "http://paizo.com/pathfinderRPG/prd/coreRulebook/spells/removeCurse.html#remove-curse",
+    "short_description": ": Frees object or person from curse."
+}, {
+    "name": "Scrying",
+    "href": "http://paizo.com/pathfinderRPG/prd/coreRulebook/spells/scrying.html#scrying",
+    "short_description": "F: Spies on subject from a distance."
+}, {
+    "name": "Sculpt Sound",
+    "href": "http://paizo.com/pathfinderRPG/prd/coreRulebook/spells/sculptSound.html#sculpt-sound",
+    "short_description": ": Creates new sounds or changes existing ones into new sounds."
+}, {
+    "name": "Secret Page",
+    "href": "http://paizo.com/pathfinderRPG/prd/coreRulebook/spells/secretPage.html#secret-page",
+    "short_description": ": Changes one page to hide its real content."
+}, {
+    "name": "See Invisibility",
+    "href": "http://paizo.com/pathfinderRPG/prd/coreRulebook/spells/seeInvisibility.html#see-invisibility",
+    "short_description": ": Reveals invisible creatures or objects."
+}, {
+    "name": "Sepia Snake Sigil",
+    "href": "http://paizo.com/pathfinderRPG/prd/coreRulebook/spells/sepiaSnakeSigil.html#sepia-snake-sigil",
+    "short_description": "M: Creates text symbol that immobilizes reader."
+}, {
+    "name": "Slow",
+    "href": "http://paizo.com/pathfinderRPG/prd/coreRulebook/spells/slow.html#slow",
+    "short_description": ": One subject/level takes only one action/round, –1 to AC, Reflex saves, and attack rolls."
+}, {
+    "name": "Speak with Animals",
+    "href": "http://paizo.com/pathfinderRPG/prd/coreRulebook/spells/speakWithAnimals.html#speak-with-animals",
+    "short_description": ": You can communicate with animals."
+}, {
+    "name": "Summon Monster III",
+    "href": "http://paizo.com/pathfinderRPG/prd/coreRulebook/spells/summonMonster.html#summon-monster-iii",
+    "short_description": ": Summons extraplanar creature to fight for you."
+}, {
+    "name": "Tiny Hut",
+    "href": "http://paizo.com/pathfinderRPG/prd/coreRulebook/spells/tinyHut.html#tiny-hut",
+    "short_description": ": Creates shelter for 10 creatures."
+}, {
+    "name": "Break Enchantment",
+    "href": "http://paizo.com/pathfinderRPG/prd/coreRulebook/spells/breakEnchantment.html#break-enchantment",
+    "short_description": ": Frees subjects from enchantments, transmutations, and curses."
+}, {
+    "name": "Cure Critical Wounds",
+    "href": "http://paizo.com/pathfinderRPG/prd/coreRulebook/spells/cureCriticalWounds.html#cure-critical-wounds",
+    "short_description": ": Cures 4d8 damage + 1/level (max +20)."
+}, {
+    "name": "Detect Scrying",
+    "href": "http://paizo.com/pathfinderRPG/prd/coreRulebook/spells/detectScrying.html#detect-scrying",
+    "short_description": ": Alerts you to magical eavesdropping"
+}, {
+    "name": "Dimension Door",
+    "href": "http://paizo.com/pathfinderRPG/prd/coreRulebook/spells/dimensionDoor.html#dimension-door",
+    "short_description": ": Teleports you a short distance."
+}, {
+    "name": "Dominate Person",
+    "href": "http://paizo.com/pathfinderRPG/prd/coreRulebook/spells/dominatePerson.html#dominate-person",
+    "short_description": ": Controls humanoid telepathically."
+}, {
+    "name": "Freedom of Movement",
+    "href": "http://paizo.com/pathfinderRPG/prd/coreRulebook/spells/freedomOfMovement.html#freedom-of-movement",
+    "short_description": ": Subject moves normally despite impediments to movement."
+}, {
+    "name": "Hallucinatory Terrain",
+    "href": "http://paizo.com/pathfinderRPG/prd/coreRulebook/spells/hallucinatoryTerrain.html#hallucinatory-terrain",
+    "short_description": ": Makes one type of terrain appear like another (field as forest, or the like)."
+}, {
+    "name": "Hold Monster",
+    "href": "http://paizo.com/pathfinderRPG/prd/coreRulebook/spells/holdMonster.html#hold-monster",
+    "short_description": ": As hold person, but any creature."
+}, {
+    "name": "Invisibility, Greater",
+    "href": "http://paizo.com/pathfinderRPG/prd/coreRulebook/spells/invisibility.html#invisibility-greater",
+    "short_description": ": As invisibility, but subject can attack and stay invisible."
+}, {
+    "name": "Legend Lore",
+    "href": "http://paizo.com/pathfinderRPG/prd/coreRulebook/spells/legendLore.html#legend-lore",
+    "short_description": "MF: Lets you learn tales about a person, place, or thing."
+}, {
+    "name": "Locate Creature",
+    "href": "http://paizo.com/pathfinderRPG/prd/coreRulebook/spells/locateCreature.html#locate-creature",
+    "short_description": ": Indicates direction to familiar creature."
+}, {
+    "name": "Modify Memory",
+    "href": "http://paizo.com/pathfinderRPG/prd/coreRulebook/spells/modifyMemory.html#modify-memory",
+    "short_description": ": Changes 5 minutes of subject's memories."
+}, {
+    "name": "Neutralize Poison",
+    "href": "http://paizo.com/pathfinderRPG/prd/coreRulebook/spells/neutralizePoison.html#neutralize-poison",
+    "short_description": ": Immunizes subject against poison, detoxifies venom in or on subject."
+}, {
+    "name": "Rainbow Pattern",
+    "href": "http://paizo.com/pathfinderRPG/prd/coreRulebook/spells/rainbowPattern.html#rainbow-pattern",
+    "short_description": ": Lights fascinate 24 HD of creatures."
+}, {
+    "name": "Repel Vermin",
+    "href": "http://paizo.com/pathfinderRPG/prd/coreRulebook/spells/repelVermin.html#repel-vermin",
+    "short_description": ": Insects, spiders, and other vermin stay 10 ft. away."
+}, {
+    "name": "Secure Shelter",
+    "href": "http://paizo.com/pathfinderRPG/prd/coreRulebook/spells/secureShelter.html#secure-shelter",
+    "short_description": ": Creates sturdy cottage."
+}, {
+    "name": "Shadow Conjuration",
+    "href": "http://paizo.com/pathfinderRPG/prd/coreRulebook/spells/shadowConjuration.html#shadow-conjuration",
+    "short_description": ": Mimics conjuration below 4th level, but only 20% real."
+}, {
+    "name": "Shout",
+    "href": "http://paizo.com/pathfinderRPG/prd/coreRulebook/spells/shout.html#shout",
+    "short_description": ": Deafens all within cone and deals 5d6 sonic damage."
+}, {
+    "name": "Speak with Plants",
+    "href": "http://paizo.com/pathfinderRPG/prd/coreRulebook/spells/speakWithPlants.html#speak-with-plants",
+    "short_description": ": You can talk to plants and plant creatures."
+}, {
+    "name": "Summon Monster IV",
+    "href": "http://paizo.com/pathfinderRPG/prd/coreRulebook/spells/summonMonster.html#summon-monster-iv",
+    "short_description": ": Summons extraplanar creature to fight for you."
+}, {
+    "name": "Zone of Silence",
+    "href": "http://paizo.com/pathfinderRPG/prd/coreRulebook/spells/zoneOfSilence.html#zone-of-silence",
+    "short_description": ": Keeps eavesdroppers from overhearing you."
+}, {
+    "name": "Cure Light Wounds, Mass",
+    "href": "http://paizo.com/pathfinderRPG/prd/coreRulebook/spells/cureLightWounds.html#cure-light-wounds-mass",
+    "short_description": ": Cures 1d8 damage + 1/level, affects 1 subject/level."
+}, {
+    "name": "Dispel Magic, Greater",
+    "href": "http://paizo.com/pathfinderRPG/prd/coreRulebook/spells/dispelMagic.html#dispel-magic-greater",
+    "short_description": ": As dispel magic, but with multiple targets."
+}, {
+    "name": "Dream",
+    "href": "http://paizo.com/pathfinderRPG/prd/coreRulebook/spells/dream.html#dream",
+    "short_description": ": Sends message to anyone sleeping."
+}, {
+    "name": "False Vision",
+    "href": "http://paizo.com/pathfinderRPG/prd/coreRulebook/spells/falseVision.html#false-vision",
+    "short_description": "M: Fools scrying with an illusion."
+}, {
+    "name": "Heroism, Greater",
+    "href": "http://paizo.com/pathfinderRPG/prd/coreRulebook/spells/heroism.html#heroism-greater",
+    "short_description": ": Gives +4 bonus on attack rolls, saves, skill checks; immunity to fear; temporary hp."
+}, {
+    "name": "Mind Fog",
+    "href": "http://paizo.com/pathfinderRPG/prd/coreRulebook/spells/mindFog.html#mind-fog",
+    "short_description": ": Subjects in fog get –10 to Wis and Will checks."
+}, {
+    "name": "Mirage Arcana",
+    "href": "http://paizo.com/pathfinderRPG/prd/coreRulebook/spells/mirageArcana.html#mirage-arcana",
+    "short_description": ": As hallucinatory terrain, plus structures."
+}, {
+    "name": "Mislead",
+    "href": "http://paizo.com/pathfinderRPG/prd/coreRulebook/spells/mislead.html#mislead",
+    "short_description": ": Turns you invisible and creates illusory double."
+}, {
+    "name": "Nightmare",
+    "href": "http://paizo.com/pathfinderRPG/prd/coreRulebook/spells/nightmare.html#nightmare",
+    "short_description": ": Sends vision dealing 1d10 damage, fatigue."
+}, {
+    "name": "Persistent Image",
+    "href": "http://paizo.com/pathfinderRPG/prd/coreRulebook/spells/persistentImage.html#persistent-image",
+    "short_description": ": As major image, but with no concentration required."
+}, {
+    "name": "Seeming",
+    "href": "http://paizo.com/pathfinderRPG/prd/coreRulebook/spells/seeming.html#seeming",
+    "short_description": ": Changes appearance of 1 person per 2 levels."
+}, {
+    "name": "Shadow Evocation",
+    "href": "http://paizo.com/pathfinderRPG/prd/coreRulebook/spells/shadowEvocation.html#shadow-evocation",
+    "short_description": ": Mimics evocation below 5th level, but only 20% real."
+}, {
+    "name": "Shadow Walk",
+    "href": "http://paizo.com/pathfinderRPG/prd/coreRulebook/spells/shadowWalk.html#shadow-walk",
+    "short_description": ": Step into shadow to travel rapidly."
+}, {
+    "name": "Song of Discord",
+    "href": "http://paizo.com/pathfinderRPG/prd/coreRulebook/spells/songOfDiscord.html#song-of-discord",
+    "short_description": ": Forces targets to attack each other."
+}, {
+    "name": "Suggestion, Mass",
+    "href": "http://paizo.com/pathfinderRPG/prd/coreRulebook/spells/suggestion.html#suggestion-mass",
+    "short_description": ": As suggestion, affects 1 subject/level."
+}, {
+    "name": "Summon Monster V",
+    "href": "http://paizo.com/pathfinderRPG/prd/coreRulebook/spells/summonMonster.html#summon-monster-v",
+    "short_description": ": Summons extraplanar creature to fight for you."
+}, {
+    "name": "Analyze Dweomer",
+    "href": "http://paizo.com/pathfinderRPG/prd/coreRulebook/spells/analyzeDweomer.html#analyze-dweomer",
+    "short_description": "F: Reveals magical aspects of subject."
+}, {
+    "name": "Animate Objects",
+    "href": "http://paizo.com/pathfinderRPG/prd/coreRulebook/spells/animateObjects.html#animate-objects",
+    "short_description": ": Objects attack your foes."
+}, {
+    "name": "Cat's Grace, Mass",
+    "href": "http://paizo.com/pathfinderRPG/prd/coreRulebook/spells/catSGrace.html#cat-s-grace-mass",
+    "short_description": ": As cat's grace, affects 1 subject/level."
+}, {
+    "name": "Charm Monster, Mass",
+    "href": "http://paizo.com/pathfinderRPG/prd/coreRulebook/spells/charmMonster.html#charm-monster-mass",
+    "short_description": ": As charm monster, but all within 30 ft."
+}, {
+    "name": "Cure Moderate Wounds, Mass",
+    "href": "http://paizo.com/pathfinderRPG/prd/coreRulebook/spells/cureModerateWounds.html#cure-moderate-wounds-mass",
+    "short_description": ": Cures 2d8 damage + 1/level, affects 1 subject/level."
+}, {
+    "name": "Eagle's Splendor, Mass",
+    "href": "http://paizo.com/pathfinderRPG/prd/coreRulebook/spells/eagleSSplendor.html#eagle-s-splendor-mass",
+    "short_description": ": As eagle's splendor, 1 subject/level."
+}, {
+    "name": "Eyebite",
+    "href": "http://paizo.com/pathfinderRPG/prd/coreRulebook/spells/eyebite.html#eyebite",
+    "short_description": ": Target becomes panicked, sickened, and comatose."
+}, {
+    "name": "Find the Path",
+    "href": "http://paizo.com/pathfinderRPG/prd/coreRulebook/spells/findThePath.html#find-the-path",
+    "short_description": ": Shows most direct way to a location."
+}, {
+    "name": "Fox's Cunning, Mass",
+    "href": "http://paizo.com/pathfinderRPG/prd/coreRulebook/spells/foxSCunning.html#fox-s-cunning-mass",
+    "short_description": ": As fox's cunning, affects 1 subject/ level."
+}, {
+    "name": "Geas/Quest",
+    "href": "http://paizo.com/pathfinderRPG/prd/coreRulebook/spells/geasQuest.html#geas-quest",
+    "short_description": ": As lesser geas, but affects any creature."
+}, {
+    "name": "Heroes' Feast",
+    "href": "http://paizo.com/pathfinderRPG/prd/coreRulebook/spells/heroesFeast.html#heroes-feast",
+    "short_description": ": Food for one creature/level cures and grants combat bonuses."
+}, {
+    "name": "Irresistible Dance",
+    "href": "http://paizo.com/pathfinderRPG/prd/coreRulebook/spells/irresistibleDance.html#irresistible-dance",
+    "short_description": ": Forces subject to dance."
+}, {
+    "name": "Permanent Image",
+    "href": "http://paizo.com/pathfinderRPG/prd/coreRulebook/spells/permanentImage.html#permanent-image",
+    "short_description": ": Permanent illusion, includes sight, sound, smell, and thermal effects."
+}, {
+    "name": "Programmed Image",
+    "href": "http://paizo.com/pathfinderRPG/prd/coreRulebook/spells/programmedImage.html#programmed-image",
+    "short_description": "M: As major image, but triggered by event."
+}, {
+    "name": "Project Image",
+    "href": "http://paizo.com/pathfinderRPG/prd/coreRulebook/spells/projectImage.html#project-image",
+    "short_description": ": Illusory double can talk and cast spells."
+}, {
+    "name": "Scrying, Greater",
+    "href": "http://paizo.com/pathfinderRPG/prd/coreRulebook/spells/scrying.html#scrying-greater",
+    "short_description": ": As scrying, but faster and longer."
+}, {
+    "name": "Shout, Greater",
+    "href": "http://paizo.com/pathfinderRPG/prd/coreRulebook/spells/shout.html#shout-greater",
+    "short_description": ": Devastating yell deals 10d6 sonic damage; stuns creatures."
+}, {
+    "name": "Summon Monster VI",
+    "href": "http://paizo.com/pathfinderRPG/prd/coreRulebook/spells/summonMonster.html#summon-monster-vi",
+    "short_description": ": Summons extraplanar creature to fight for you."
+}, {
+    "name": "Sympathetic Vibration",
+    "href": "http://paizo.com/pathfinderRPG/prd/coreRulebook/spells/sympatheticVibration.html#sympathetic-vibration",
+    "short_description": ": Deals 2d10 damage/round to freestanding structure."
+}, {
+    "name": "Veil",
+    "href": "http://paizo.com/pathfinderRPG/prd/coreRulebook/spells/veil.html#veil",
+    "short_description": ": Changes appearance of a group of creatures."
+}, {
+    "name": "Bleed",
+    "href": "http://paizo.com/pathfinderRPG/prd/coreRulebook/spells/bleed.html#bleed",
+    "short_description": ": Cause a stabilized creature to resume dying."
+}, {
+    "name": "Create Water",
+    "href": "http://paizo.com/pathfinderRPG/prd/coreRulebook/spells/createWater.html#create-water",
+    "short_description": ": Creates 2 gallons/level of pure water."
+}, {
+    "name": "Detect Poison",
+    "href": "http://paizo.com/pathfinderRPG/prd/coreRulebook/spells/detectPoison.html#detect-poison",
+    "short_description": ": Detects poison in one creature or small object."
+}, {
+    "name": "Guidance",
+    "href": "http://paizo.com/pathfinderRPG/prd/coreRulebook/spells/guidance.html#guidance",
+    "short_description": ": +1 on one attack roll, saving throw, or skill check."
+}, {
+    "name": "Purify Food and Drink",
+    "href": "http://paizo.com/pathfinderRPG/prd/coreRulebook/spells/purifyFoodAndDrink.html#purify-food-and-drink",
+    "short_description": ": Purifies 1 cu. ft./level of food or water."
+}, {
+    "name": "Stabilize",
+    "href": "http://paizo.com/pathfinderRPG/prd/coreRulebook/spells/stabilize.html#stabilize",
+    "short_description": ": Cause a dying creature to stabilize."
+}, {
+    "name": "Virtue",
+    "href": "http://paizo.com/pathfinderRPG/prd/coreRulebook/spells/virtue.html#virtue",
+    "short_description": ": Subject gains 1 temporary hp."
+}, {
+    "name": "Bane",
+    "href": "http://paizo.com/pathfinderRPG/prd/coreRulebook/spells/bane.html#bane",
+    "short_description": ": Enemies take –1 on attack rolls and saves against fear."
+}, {
+    "name": "Bless",
+    "href": "http://paizo.com/pathfinderRPG/prd/coreRulebook/spells/bless.html#bless",
+    "short_description": ": Allies gain +1 on attack rolls and saves against fear."
+}, {
+    "name": "Bless Water",
+    "href": "http://paizo.com/pathfinderRPG/prd/coreRulebook/spells/blessWater.html#bless-water",
+    "short_description": "M: Makes holy water."
+}, {
+    "name": "Command",
+    "href": "http://paizo.com/pathfinderRPG/prd/coreRulebook/spells/command.html#command",
+    "short_description": ": One subject obeys selected command for 1 round."
+}, {
+    "name": "Curse Water",
+    "href": "http://paizo.com/pathfinderRPG/prd/coreRulebook/spells/curseWater.html#curse-water",
+    "short_description": "M: Makes unholy water."
+}, {
+    "name": "Deathwatch",
+    "href": "http://paizo.com/pathfinderRPG/prd/coreRulebook/spells/deathwatch.html",
+    "short_description": ": Reveals how near death subjects within 30 ft. are."
+}, {
+    "name": "Detect Chaos/Evil/Good/Law",
+    "href": "http://paizo.com/pathfinderRPG/prd/coreRulebook/spells/detectChaos.html#detect-chaos",
+    "short_description": ": Reveals creatures, spells, or objects of selected alignment."
+}, {
+    "name": "Detect Undead",
+    "href": "http://paizo.com/pathfinderRPG/prd/coreRulebook/spells/detectUndead.html#detect-undead",
+    "short_description": ": Reveals undead within 60 ft."
+}, {
+    "name": "Divine Favor",
+    "href": "http://paizo.com/pathfinderRPG/prd/coreRulebook/spells/divineFavor.html#divine-favor",
+    "short_description": ": You gain +1 per three levels on attack and damage rolls."
+}, {
+    "name": "Doom",
+    "href": "http://paizo.com/pathfinderRPG/prd/coreRulebook/spells/doom.html#doom",
+    "short_description": ": One subject takes –2 on attack rolls, damage rolls, saves, and checks."
+}, {
+    "name": "Endure Elements",
+    "href": "http://paizo.com/pathfinderRPG/prd/coreRulebook/spells/endureElements.html#endure-elements",
+    "short_description": ": Exist comfortably in hot or cold regions."
+}, {
+    "name": "Entropic Shield",
+    "href": "http://paizo.com/pathfinderRPG/prd/coreRulebook/spells/entropicShield.html#entropic-shield",
+    "short_description": ": Ranged attacks against you have 20% miss chance."
+}, {
+    "name": "Hide from Undead",
+    "href": "http://paizo.com/pathfinderRPG/prd/coreRulebook/spells/hideFromUndead.html#hide-from-undead",
+    "short_description": ": Undead can't perceive one subject/level."
+}, {
+    "name": "Inflict Light Wounds",
+    "href": "http://paizo.com/pathfinderRPG/prd/coreRulebook/spells/inflictLightWounds.html#inflict-light-wounds",
+    "short_description": ": Touch deals 1d8 damage +1/level (max +5)."
+}, {
+    "name": "Magic Stone",
+    "href": "http://paizo.com/pathfinderRPG/prd/coreRulebook/spells/magicStone.html#magic-stone",
+    "short_description": ": Three stones gain +1 on attack rolls, deal 1d6+1 damage."
+}, {
+    "name": "Magic Weapon",
+    "href": "http://paizo.com/pathfinderRPG/prd/coreRulebook/spells/magicWeapon.html#magic-weapon",
+    "short_description": ": Weapon gains +1 bonus."
+}, {
+    "name": "Obscuring Mist",
+    "href": "http://paizo.com/pathfinderRPG/prd/coreRulebook/spells/obscuringMist.html#obscuring-mist",
+    "short_description": ": Fog surrounds you."
+}, {
+    "name": "Protection from Chaos/Evil/Good/Law",
+    "href": "http://paizo.com/pathfinderRPG/prd/coreRulebook/spells/protectionFromEvil.html#protection-from-evil",
+    "short_description": ": +2 to AC and saves, plus additional protection against selected alignment."
+}, {
+    "name": "Sanctuary",
+    "href": "http://paizo.com/pathfinderRPG/prd/coreRulebook/spells/sanctuary.html#sanctuary",
+    "short_description": ": Opponents can't attack you, and you can't attack."
+}, {
+    "name": "Shield of Faith",
+    "href": "http://paizo.com/pathfinderRPG/prd/coreRulebook/spells/shieldOfFaith.html#shield-of-faith",
+    "short_description": ": Aura grants +2 or higher deflection bonus."
+}, {
+    "name": "Aid",
+    "href": "http://paizo.com/pathfinderRPG/prd/coreRulebook/spells/aid.html#aid",
+    "short_description": ": +1 on attack rolls and saves against fear, 1d8 temporary hp +1/level (max +10)."
+}, {
+    "name": "Align Weapon",
+    "href": "http://paizo.com/pathfinderRPG/prd/coreRulebook/spells/alignWeapon.html#align-weapon",
+    "short_description": ": Weapon becomes good, evil, lawful, or chaotic."
+}, {
+    "name": "Augury",
+    "href": "http://paizo.com/pathfinderRPG/prd/coreRulebook/spells/augury.html#augury",
+    "short_description": "MF: Learns whether an action will be good or bad."
+}, {
+    "name": "Bear's Endurance",
+    "href": "http://paizo.com/pathfinderRPG/prd/coreRulebook/spells/bearSEndurance.html#bear-s-endurance",
+    "short_description": ": Subject gains +4 to Con for 1 min./level."
+}, {
+    "name": "Bull's Strength",
+    "href": "http://paizo.com/pathfinderRPG/prd/coreRulebook/spells/bullSStrength.html#bull-s-strength",
+    "short_description": ": Subject gains +4 to Str for 1 min./level."
+}, {
+    "name": "Consecrate",
+    "href": "http://paizo.com/pathfinderRPG/prd/coreRulebook/spells/consecrate.html#consecrate",
+    "short_description": "M: Fills area with positive energy, weakening undead."
+}, {
+    "name": "Death Knell",
+    "href": "http://paizo.com/pathfinderRPG/prd/coreRulebook/spells/deathKnell.html#death-knell",
+    "short_description": ": Kills dying creature; you gain 1d8 temporary hp, +2 to Str, and +1 caster level."
+}, {
+    "name": "Desecrate",
+    "href": "http://paizo.com/pathfinderRPG/prd/coreRulebook/spells/desecrate.html#desecrate",
+    "short_description": "M: Fills area with negative energy, making undead stronger."
+}, {
+    "name": "Find Traps",
+    "href": "http://paizo.com/pathfinderRPG/prd/coreRulebook/spells/findTraps.html#find-traps",
+    "short_description": ": Notice traps as a rogue does."
+}, {
+    "name": "Gentle Repose",
+    "href": "http://paizo.com/pathfinderRPG/prd/coreRulebook/spells/gentleRepose.html#gentle-repose",
+    "short_description": ": Preserves one corpse."
+}, {
+    "name": "Inflict Moderate Wounds",
+    "href": "http://paizo.com/pathfinderRPG/prd/coreRulebook/spells/inflictModerateWounds.html#inflict-moderate-wounds",
+    "short_description": ": Touch attack, 2d8 damage + 1/level (max +10)."
+}, {
+    "name": "Make Whole",
+    "href": "http://paizo.com/pathfinderRPG/prd/coreRulebook/spells/makeWhole.html#make-whole",
+    "short_description": ": Repairs an object."
+}, {
+    "name": "Owl's Wisdom",
+    "href": "http://paizo.com/pathfinderRPG/prd/coreRulebook/spells/owlSWisdom.html#owl-s-wisdom",
+    "short_description": ": Subject gains +4 to Wis for 1 min./level."
+}, {
+    "name": "Remove Paralysis",
+    "href": "http://paizo.com/pathfinderRPG/prd/coreRulebook/spells/removeParalysis.html#remove-paralysis",
+    "short_description": ": Frees one or more creatures from paralysis or slow effect."
+}, {
+    "name": "Resist Energy",
+    "href": "http://paizo.com/pathfinderRPG/prd/coreRulebook/spells/resistEnergy.html#resist-energy",
+    "short_description": ": Ignores first 10 (or more) points of damage per attack from specified energy type."
+}, {
+    "name": "Restoration, Lesser",
+    "href": "http://paizo.com/pathfinderRPG/prd/coreRulebook/spells/restoration.html#restoration-lesser",
+    "short_description": ": Dispels magical ability penalty or repairs 1d4 ability damage."
+}, {
+    "name": "Shield Other",
+    "href": "http://paizo.com/pathfinderRPG/prd/coreRulebook/spells/shieldOther.html#shield-other",
+    "short_description": "F: You take half of subject's damage."
+}, {
+    "name": "Spiritual Weapon",
+    "href": "http://paizo.com/pathfinderRPG/prd/coreRulebook/spells/spiritualWeapon.html#spiritual-weapon",
+    "short_description": ": Magic weapon attacks on its own."
+}, {
+    "name": "Status",
+    "href": "http://paizo.com/pathfinderRPG/prd/coreRulebook/spells/status.html#status",
+    "short_description": ": Monitors condition, position of allies."
+}, {
+    "name": "Zone of Truth",
+    "href": "http://paizo.com/pathfinderRPG/prd/coreRulebook/spells/zoneOfTruth.html#zone-of-truth",
+    "short_description": ": Subjects within range cannot lie."
+}, {
+    "name": "Animate Dead",
+    "href": "http://paizo.com/pathfinderRPG/prd/coreRulebook/spells/animateDead.html#animate-dead",
+    "short_description": "M: Creates undead skeletons and zombies out of corpses."
+}, {
+    "name": "Bestow Curse",
+    "href": "http://paizo.com/pathfinderRPG/prd/coreRulebook/spells/bestowCurse.html#bestow-curse",
+    "short_description": ": –6 to an ability score; –4 on attack rolls, saves, and checks; or 50% chance of losing each action."
+}, {
+    "name": "Contagion",
+    "href": "http://paizo.com/pathfinderRPG/prd/coreRulebook/spells/contagion.html#contagion",
+    "short_description": ": Infects subject with chosen disease."
+}, {
+    "name": "Continual Flame",
+    "href": "http://paizo.com/pathfinderRPG/prd/coreRulebook/spells/continualFlame.html#continual-flame",
+    "short_description": "M: Makes a permanent, heatless light."
+}, {
+    "name": "Create Food and Water",
+    "href": "http://paizo.com/pathfinderRPG/prd/coreRulebook/spells/createFoodAndWater.html#create-food-and-water",
+    "short_description": ": Feeds three humans (or one horse)/level."
+}, {
+    "name": "Deeper Darkness",
+    "href": "http://paizo.com/pathfinderRPG/prd/coreRulebook/spells/deeperDarkness.html#deeper-darkness",
+    "short_description": ": Object sheds supernatural shadow in 60-ft. radius."
+}, {
+    "name": "Glyph of Warding",
+    "href": "http://paizo.com/pathfinderRPG/prd/coreRulebook/spells/glyphOfWarding.html#glyph-of-warding",
+    "short_description": "M: Inscription harms those who pass it."
+}, {
+    "name": "Helping Hand",
+    "href": "http://paizo.com/pathfinderRPG/prd/coreRulebook/spells/helpingHand.html#helping-hand",
+    "short_description": ": Ghostly hand leads subject to you."
+}, {
+    "name": "Inflict Serious Wounds",
+    "href": "http://paizo.com/pathfinderRPG/prd/coreRulebook/spells/inflictSeriousWounds.html#inflict-serious-wounds",
+    "short_description": ": Touch attack, 3d8 damage + 1/level (max +15)."
+}, {
+    "name": "Invisibility Purge",
+    "href": "http://paizo.com/pathfinderRPG/prd/coreRulebook/spells/invisibilityPurge.html#invisibility-purge",
+    "short_description": ": Dispels invisibility within 5 ft./level."
+}, {
+    "name": "Magic Circle against Chaos/Evil/Good/Law",
+    "href": "http://paizo.com/pathfinderRPG/prd/coreRulebook/spells/magicCircleAgainstChaos.html#magic-circle-against-chaos",
+    "short_description": ": As protection spells, but 10-ft. radius and 10 min./level."
+}, {
+    "name": "Magic Vestment",
+    "href": "http://paizo.com/pathfinderRPG/prd/coreRulebook/spells/magicVestment.html#magic-vestment",
+    "short_description": ": Armor or shield gains +1 enhancement per four levels."
+}, {
+    "name": "Meld into Stone",
+    "href": "http://paizo.com/pathfinderRPG/prd/coreRulebook/spells/meldIntoStone.html#meld-into-stone",
+    "short_description": ": You and your gear merge with stone."
+}, {
+    "name": "Prayer",
+    "href": "http://paizo.com/pathfinderRPG/prd/coreRulebook/spells/prayer.html#prayer",
+    "short_description": ": Allies get +1 bonus on most rolls, enemies –1 penalty."
+}, {
+    "name": "Protection from Energy",
+    "href": "http://paizo.com/pathfinderRPG/prd/coreRulebook/spells/protectionFromEnergy.html#protection-from-energy",
+    "short_description": ": Absorbs 12 points/level of damage from one kind of energy."
+}, {
+    "name": "Remove Blindness/Deafness",
+    "href": "http://paizo.com/pathfinderRPG/prd/coreRulebook/spells/removeBlindnessDeafness.html#remove-blindness-deafness",
+    "short_description": ": Cures normal or magical blindness or deafness."
+}, {
+    "name": "Remove Disease",
+    "href": "http://paizo.com/pathfinderRPG/prd/coreRulebook/spells/removeDisease.html#remove-disease",
+    "short_description": ": Cures all diseases affecting subject."
+}, {
+    "name": "Searing Light",
+    "href": "http://paizo.com/pathfinderRPG/prd/coreRulebook/spells/searingLight.html#searing-light",
+    "short_description": ": Ray deals 1d8/two levels damage (more against undead)."
+}, {
+    "name": "Speak with Dead",
+    "href": "http://paizo.com/pathfinderRPG/prd/coreRulebook/spells/speakWithDead.html#speak-with-dead",
+    "short_description": ": Corpse answers one question/two levels."
+}, {
+    "name": "Stone Shape",
+    "href": "http://paizo.com/pathfinderRPG/prd/coreRulebook/spells/stoneShape.html#stone-shape",
+    "short_description": ": Sculpts stone into any shape."
+}, {
+    "name": "Water Breathing",
+    "href": "http://paizo.com/pathfinderRPG/prd/coreRulebook/spells/waterBreathing.html#water-breathing",
+    "short_description": ": Subjects can breathe underwater."
+}, {
+    "name": "Water Walk",
+    "href": "http://paizo.com/pathfinderRPG/prd/coreRulebook/spells/waterWalk.html#water-walk",
+    "short_description": ": Subject treads on water as if solid."
+}, {
+    "name": "Wind Wall",
+    "href": "http://paizo.com/pathfinderRPG/prd/coreRulebook/spells/windWall.html#wind-wall",
+    "short_description": ": Deflects arrows, smaller creatures, and gases."
+}, {
+    "name": "Air Walk",
+    "href": "http://paizo.com/pathfinderRPG/prd/coreRulebook/spells/airWalk.html#air-walk",
+    "short_description": ": Subject treads on air as if solid (climb or descend at 45-degree angle)."
+}, {
+    "name": "Chaos Hammer",
+    "href": "http://paizo.com/pathfinderRPG/prd/coreRulebook/spells/chaosHammer.html#chaos-hammer",
+    "short_description": ": Harms and slows lawful creatures (1d8 damage/2 levels)."
+}, {
+    "name": "Control Water",
+    "href": "http://paizo.com/pathfinderRPG/prd/coreRulebook/spells/controlWater.html#control-water",
+    "short_description": ": Raises or lowers bodies of water."
+}, {
+    "name": "Death Ward",
+    "href": "http://paizo.com/pathfinderRPG/prd/coreRulebook/spells/deathWard.html#death-ward",
+    "short_description": ": Grants bonuses against death spells and negative energy."
+}, {
+    "name": "Dimensional Anchor",
+    "href": "http://paizo.com/pathfinderRPG/prd/coreRulebook/spells/dimensionalAnchor.html#dimensional-anchor",
+    "short_description": ": Bars extradimensional movement."
+}, {
+    "name": "Discern Lies",
+    "href": "http://paizo.com/pathfinderRPG/prd/coreRulebook/spells/discernLies.html#discern-lies",
+    "short_description": ": Reveals deliberate falsehoods."
+}, {
+    "name": "Dismissal",
+    "href": "http://paizo.com/pathfinderRPG/prd/coreRulebook/spells/dismissal.html#dismissal",
+    "short_description": ": Forces a creature to return to its native plane."
+}, {
+    "name": "Divination",
+    "href": "http://paizo.com/pathfinderRPG/prd/coreRulebook/spells/divination.html#divination",
+    "short_description": "M: Provides useful advice for specific proposed actions."
+}, {
+    "name": "Divine Power",
+    "href": "http://paizo.com/pathfinderRPG/prd/coreRulebook/spells/divinePower.html#divine-power",
+    "short_description": ": You gain attack bonuses and 1 hp/level."
+}, {
+    "name": "Giant Vermin",
+    "href": "http://paizo.com/pathfinderRPG/prd/coreRulebook/spells/giantVermin.html#giant-vermin",
+    "short_description": ": Turns centipedes, scorpions, or spiders into giant vermin."
+}, {
+    "name": "Holy Smite",
+    "href": "http://paizo.com/pathfinderRPG/prd/coreRulebook/spells/holySmite.html#holy-smite",
+    "short_description": ": Harms and possibly blinds evil creatures (1d8 damage/2 levels)."
+}, {
+    "name": "Imbue with Spell Ability",
+    "href": "http://paizo.com/pathfinderRPG/prd/coreRulebook/spells/imbueWithSpellAbility.html#imbue-with-spell-ability",
+    "short_description": ": Transfer spells to subject."
+}, {
+    "name": "Inflict Critical Wounds",
+    "href": "http://paizo.com/pathfinderRPG/prd/coreRulebook/spells/inflictCriticalWounds.html#inflict-critical-wounds",
+    "short_description": ": Touch attack, 4d8 damage + 1/level (max +20)."
+}, {
+    "name": "Magic Weapon, Greater",
+    "href": "http://paizo.com/pathfinderRPG/prd/coreRulebook/spells/magicWeapon.html#magic-weapon-greater",
+    "short_description": ": Weapon gains +1 bonus/four levels (max +5)."
+}, {
+    "name": "Order's Wrath",
+    "href": "http://paizo.com/pathfinderRPG/prd/coreRulebook/spells/orderSWrath.html#order-s-wrath",
+    "short_description": ": Harms and dazes chaotic creatures (1d8 damage/2 levels)."
+}, {
+    "name": "Planar Ally, Lesser",
+    "href": "http://paizo.com/pathfinderRPG/prd/coreRulebook/spells/planarAlly.html#planar-ally-lesser",
+    "short_description": "M: Exchange services with a 6 HD extraplanar creature."
+}, {
+    "name": "Poison",
+    "href": "http://paizo.com/pathfinderRPG/prd/coreRulebook/spells/poison.html#poison",
+    "short_description": ": Touch deals 1d3 Con damage 1/round for 6 rounds."
+}, {
+    "name": "Restoration",
+    "href": "http://paizo.com/pathfinderRPG/prd/coreRulebook/spells/restoration.html#restoration",
+    "short_description": "M: Restores level and ability score drains."
+}, {
+    "name": "Sending",
+    "href": "http://paizo.com/pathfinderRPG/prd/coreRulebook/spells/sending.html#sending",
+    "short_description": ": Delivers short message anywhere, instantly."
+}, {
+    "name": "Spell Immunity",
+    "href": "http://paizo.com/pathfinderRPG/prd/coreRulebook/spells/spellImmunity.html#spell-immunity",
+    "short_description": ": Subject is immune to one spell per 4 levels."
+}, {
+    "name": "Unholy Blight",
+    "href": "http://paizo.com/pathfinderRPG/prd/coreRulebook/spells/unholyBlight.html#unholy-blight",
+    "short_description": ": Harms and sickens good creatures (1d8 damage/2 levels)."
+}, {
+    "name": "Atonement",
+    "href": "http://paizo.com/pathfinderRPG/prd/coreRulebook/spells/atonement.html#atonement",
+    "short_description": "FM: Removes burden of misdeeds from subject."
+}, {
+    "name": "Breath of Life",
+    "href": "http://paizo.com/pathfinderRPG/prd/coreRulebook/spells/breathOfLife.html#breath-of-life",
+    "short_description": ": Cures 5d8 damage + 1/level and restores life to recently slain creatures."
+}, {
+    "name": "Command, Greater",
+    "href": "http://paizo.com/pathfinderRPG/prd/coreRulebook/spells/command.html#command-greater",
+    "short_description": ": As command, but affects one subject/level."
+}, {
+    "name": "Commune",
+    "href": "http://paizo.com/pathfinderRPG/prd/coreRulebook/spells/commune.html#commune",
+    "short_description": "M: Deity answers one yes-or-no question/level."
+}, {
+    "name": "Dispel Chaos/Evil/Good/Law",
+    "href": "http://paizo.com/pathfinderRPG/prd/coreRulebook/spells/dispelEvil.html#dispel-evil",
+    "short_description": ": +4 bonus against attacks."
+}, {
+    "name": "Disrupting Weapon",
+    "href": "http://paizo.com/pathfinderRPG/prd/coreRulebook/spells/disruptingWeapon.html#disrupting-weapon",
+    "short_description": ": Melee weapon destroys undead."
+}, {
+    "name": "Flame Strike",
+    "href": "http://paizo.com/pathfinderRPG/prd/coreRulebook/spells/flameStrike.html#flame-strike",
+    "short_description": ": Smites foes with divine fire (1d6/level damage)."
+}, {
+    "name": "Hallow",
+    "href": "http://paizo.com/pathfinderRPG/prd/coreRulebook/spells/hallow.html#hallow",
+    "short_description": "M: Designates location as holy."
+}, {
+    "name": "Inflict Light Wounds, Mass",
+    "href": "http://paizo.com/pathfinderRPG/prd/coreRulebook/spells/inflictLightWounds.html#inflict-light-wounds-mass",
+    "short_description": ": Deals 1d8 damage + 1/level, affects 1 subject/level."
+}, {
+    "name": "Insect Plague",
+    "href": "http://paizo.com/pathfinderRPG/prd/coreRulebook/spells/insectPlague.html#insect-plague",
+    "short_description": ": Wasp swarms attack creatures."
+}, {
+    "name": "Mark of Justice",
+    "href": "http://paizo.com/pathfinderRPG/prd/coreRulebook/spells/markOfJustice.html#mark-of-justice",
+    "short_description": ": Designates action that triggers curse on subject."
+}, {
+    "name": "Plane Shift",
+    "href": "http://paizo.com/pathfinderRPG/prd/coreRulebook/spells/planeShift.html#plane-shift",
+    "short_description": "F: As many as eight subjects travel to another plane."
+}, {
+    "name": "Raise Dead",
+    "href": "http://paizo.com/pathfinderRPG/prd/coreRulebook/spells/raiseDead.html#raise-dead",
+    "short_description": "M: Restores life to subject who died as long as one day/level ago."
+}, {
+    "name": "Righteous Might",
+    "href": "http://paizo.com/pathfinderRPG/prd/coreRulebook/spells/righteousMight.html#righteous-might",
+    "short_description": ": Your size increases, and you gain bonuses in combat."
+}, {
+    "name": "Slay Living",
+    "href": "http://paizo.com/pathfinderRPG/prd/coreRulebook/spells/slayLiving.html#slay-living",
+    "short_description": ": Touch attack deals 12d6 + 1 per level."
+}, {
+    "name": "Spell Resistance",
+    "href": "http://paizo.com/pathfinderRPG/prd/coreRulebook/spells/spellResistance.html#spell-resistance",
+    "short_description": ": Subject gains SR 12 + level."
+}, {
+    "name": "Symbol of Pain",
+    "href": "http://paizo.com/pathfinderRPG/prd/coreRulebook/spells/symbolOfPain.html#symbol-of-pain",
+    "short_description": "M: Triggered rune wracks creatures with pain."
+}, {
+    "name": "Symbol of Sleep",
+    "href": "http://paizo.com/pathfinderRPG/prd/coreRulebook/spells/symbolOfSleep.html#symbol-of-sleep",
+    "short_description": "M: Triggered rune puts nearby creatures into catatonic slumber."
+}, {
+    "name": "True Seeing",
+    "href": "http://paizo.com/pathfinderRPG/prd/coreRulebook/spells/trueSeeing.html#true-seeing",
+    "short_description": "M: Lets you see all things as they really are."
+}, {
+    "name": "Unhallow",
+    "href": "http://paizo.com/pathfinderRPG/prd/coreRulebook/spells/unhallow.html#unhallow",
+    "short_description": "M: Designates location as unholy."
+}, {
+    "name": "Wall of Stone",
+    "href": "http://paizo.com/pathfinderRPG/prd/coreRulebook/spells/wallOfStone.html#wall-of-stone",
+    "short_description": ": Creates a stone wall that can be shaped."
+}, {
+    "name": "Antilife Shell",
+    "href": "http://paizo.com/pathfinderRPG/prd/coreRulebook/spells/antilifeShell.html#antilife-shell",
+    "short_description": ": 10-ft.-radius field hedges out living creatures."
+}, {
+    "name": "Banishment",
+    "href": "http://paizo.com/pathfinderRPG/prd/coreRulebook/spells/banishment.html#banishment",
+    "short_description": ": Banishes 2 HD/level of extraplanar creatures."
+}, {
+    "name": "Bear's Endurance, Mass",
+    "href": "http://paizo.com/pathfinderRPG/prd/coreRulebook/spells/bearSEndurance.html#bear-s-endurance-mass",
+    "short_description": ": As bear's endurance, affects one subject/level."
+}, {
+    "name": "Blade Barrier",
+    "href": "http://paizo.com/pathfinderRPG/prd/coreRulebook/spells/bladeBarrier.html#blade-barrier",
+    "short_description": ": Wall of blades deals 1d6/level damage."
+}, {
+    "name": "Bull's Strength, Mass",
+    "href": "http://paizo.com/pathfinderRPG/prd/coreRulebook/spells/bullSStrength.html#bull-s-strength-mass",
+    "short_description": ": As bull's strength, affects 1 subject per level."
+}, {
+    "name": "Create Undead",
+    "href": "http://paizo.com/pathfinderRPG/prd/coreRulebook/spells/createUndead.html#create-undead",
+    "short_description": "M: Raises ghouls, ghasts, mummies, or mohrgs from physical remains."
+}, {
+    "name": "Forbiddance",
+    "href": "http://paizo.com/pathfinderRPG/prd/coreRulebook/spells/forbiddance.html#forbiddance",
+    "short_description": "M: Blocks planar travel, damages creatures of different alignment."
+}, {
+    "name": "Glyph of Warding, Greater",
+    "href": "http://paizo.com/pathfinderRPG/prd/coreRulebook/spells/glyphOfWarding.html#glyph-of-warding-greater",
+    "short_description": "M: As glyph of warding, but up to 10d8 damage or 6th-level spell."
+}, {
+    "name": "Harm",
+    "href": "http://paizo.com/pathfinderRPG/prd/coreRulebook/spells/harm.html#harm",
+    "short_description": ": Deals 10 points/level damage to target."
+}, {
+    "name": "Heal",
+    "href": "http://paizo.com/pathfinderRPG/prd/coreRulebook/spells/heal.html#heal",
+    "short_description": ": Cures 10 points/level damage, all diseases and mental conditions."
+}, {
+    "name": "Inflict Moderate Wounds, Mass",
+    "href": "http://paizo.com/pathfinderRPG/prd/coreRulebook/spells/cureModerateWounds.html#cure-moderate-wounds-mass",
+    "short_description": ": Deals 2d8 damage + 1/level, affects 1 subject/level."
+}, {
+    "name": "Owl's Wisdom, Mass",
+    "href": "http://paizo.com/pathfinderRPG/prd/coreRulebook/spells/owlSWisdom.html#owl-s-wisdom-mass",
+    "short_description": ": As owl's wisdom, affects 1 subject/level."
+}, {
+    "name": "Planar Ally",
+    "href": "http://paizo.com/pathfinderRPG/prd/coreRulebook/spells/planarAlly.html#planar-ally",
+    "short_description": "M: As lesser planar ally, but up to 12 HD."
+}, {
+    "name": "Symbol of Fear",
+    "href": "http://paizo.com/pathfinderRPG/prd/coreRulebook/spells/symbolOfFear.html#symbol-of-fear",
+    "short_description": "M: Triggered rune panics nearby creatures."
+}, {
+    "name": "Symbol of Persuasion",
+    "href": "http://paizo.com/pathfinderRPG/prd/coreRulebook/spells/symbolOfPersuasion.html#symbol-of-persuasion",
+    "short_description": "M: Triggered rune charms creatures."
+}, {
+    "name": "Undeath to Death",
+    "href": "http://paizo.com/pathfinderRPG/prd/coreRulebook/spells/undeathToDeath.html#undeath-to-death",
+    "short_description": "M: Destroys 1d4/level HD of undead (max. 20d4)."
+}, {
+    "name": "Wind Walk",
+    "href": "http://paizo.com/pathfinderRPG/prd/coreRulebook/spells/windWalk.html#wind-walk",
+    "short_description": ": You and your allies turn vaporous and travel fast."
+}, {
+    "name": "Word of Recall",
+    "href": "http://paizo.com/pathfinderRPG/prd/coreRulebook/spells/wordOfRecall.html#word-of-recall",
+    "short_description": ": Teleports you back to designated place."
+}, {
+    "name": "Blasphemy",
+    "href": "http://paizo.com/pathfinderRPG/prd/coreRulebook/spells/blasphemy.html#blasphemy",
+    "short_description": ": Kills, paralyzes, weakens, or dazes nonevil subjects."
+}, {
+    "name": "Control Weather",
+    "href": "http://paizo.com/pathfinderRPG/prd/coreRulebook/spells/controlWeather.html#control-weather",
+    "short_description": ": Changes weather in local area."
+}, {
+    "name": "Cure Serious Wounds, Mass",
+    "href": "http://paizo.com/pathfinderRPG/prd/coreRulebook/spells/cureSeriousWounds.html#cure-serious-wounds-mass",
+    "short_description": ": Cures 3d8 damage + 1/level, affects 1 subject/level."
+}, {
+    "name": "Destruction",
+    "href": "http://paizo.com/pathfinderRPG/prd/coreRulebook/spells/destruction.html#destruction",
+    "short_description": "F: Kills subject and destroys remains."
+}, {
+    "name": "Dictum",
+    "href": "http://paizo.com/pathfinderRPG/prd/coreRulebook/spells/dictum.html#dictum",
+    "short_description": ": Kills, paralyzes, staggers, or deafens nonlawful targets."
+}, {
+    "name": "Ethereal Jaunt",
+    "href": "http://paizo.com/pathfinderRPG/prd/coreRulebook/spells/etherealJaunt.html#ethereal-jaunt",
+    "short_description": ": You become ethereal for 1 round/level."
+}, {
+    "name": "Holy Word",
+    "href": "http://paizo.com/pathfinderRPG/prd/coreRulebook/spells/holyWord.html#holy-word",
+    "short_description": ": Kills, paralyzes, blinds, or deafens nongood subjects."
+}, {
+    "name": "Inflict Serious Wounds, Mass",
+    "href": "http://paizo.com/pathfinderRPG/prd/coreRulebook/spells/inflictSeriousWounds.html#inflict-serious-wounds-mass",
+    "short_description": ": Deals 3d8 damage + 1/level, affects 1 subject/level."
+}, {
+    "name": "Refuge",
+    "href": "http://paizo.com/pathfinderRPG/prd/coreRulebook/spells/refuge.html#refuge",
+    "short_description": "M: Alters item to transport its possessor to your abode."
+}, {
+    "name": "Regenerate",
+    "href": "http://paizo.com/pathfinderRPG/prd/coreRulebook/spells/regenerate.html#regenerate",
+    "short_description": ": Subject's severed limbs grow back, cures 4d8 damage +1/level (max +35)."
+}, {
+    "name": "Repulsion",
+    "href": "http://paizo.com/pathfinderRPG/prd/coreRulebook/spells/repulsion.html#repulsion",
+    "short_description": "F: Creatures can't approach you."
+}, {
+    "name": "Restoration, Greater",
+    "href": "http://paizo.com/pathfinderRPG/prd/coreRulebook/spells/restoration.html#restoration-greater",
+    "short_description": "M: As restoration, plus restores all levels and ability scores."
+}, {
+    "name": "Resurrection",
+    "href": "http://paizo.com/pathfinderRPG/prd/coreRulebook/spells/resurrection.html#resurrection",
+    "short_description": "M: Fully restore dead subject."
+}, {
+    "name": "Summon Monster VII",
+    "href": "http://paizo.com/pathfinderRPG/prd/coreRulebook/spells/summonMonster.html#summon-monster-vii",
+    "short_description": ": Summons extraplanar creature to fight for you."
+}, {
+    "name": "Symbol of Stunning",
+    "href": "http://paizo.com/pathfinderRPG/prd/coreRulebook/spells/symbolOfStunning.html#symbol-of-stunning",
+    "short_description": "M: Triggered rune stuns creatures."
+}, {
+    "name": "Symbol of Weakness",
+    "href": "http://paizo.com/pathfinderRPG/prd/coreRulebook/spells/symbolOfWeakness.html#symbol-of-weakness",
+    "short_description": "M: Triggered rune weakens creatures."
+}, {
+    "name": "Word of Chaos",
+    "href": "http://paizo.com/pathfinderRPG/prd/coreRulebook/spells/wordOfChaos.html#word-of-chaos",
+    "short_description": ": Kills, confuses, stuns, or deafens nonchaotic subjects."
+}, {
+    "name": "Antimagic Field",
+    "href": "http://paizo.com/pathfinderRPG/prd/coreRulebook/spells/antimagicField.html#antimagic-field",
+    "short_description": ": Negates magic within 10 ft."
+}, {
+    "name": "Cloak of Chaos",
+    "href": "http://paizo.com/pathfinderRPG/prd/coreRulebook/spells/cloakOfChaos.html#cloak-of-chaos",
+    "short_description": "F: +4 to AC, +4 resistance, and SR 25 against lawful spells."
+}, {
+    "name": "Create Greater Undead",
+    "href": "http://paizo.com/pathfinderRPG/prd/coreRulebook/spells/createGreaterUndead.html#create-greater-undead",
+    "short_description": "M: Creates shadows, wraiths, spectres, or devourers."
+}, {
+    "name": "Cure Critical Wounds, Mass",
+    "href": "http://paizo.com/pathfinderRPG/prd/coreRulebook/spells/cureCriticalWounds.html#cure-critical-wounds-mass",
+    "short_description": ": Cures 4d8 damage + 1/level for many creatures."
+}, {
+    "name": "Dimensional Lock",
+    "href": "http://paizo.com/pathfinderRPG/prd/coreRulebook/spells/dimensionalLock.html#dimensional-lock",
+    "short_description": ": Teleportation and interplanar travel blocked for 1 day/level."
+}, {
+    "name": "Discern Location",
+    "href": "http://paizo.com/pathfinderRPG/prd/coreRulebook/spells/discernLocation.html#discern-location",
+    "short_description": ": Reveals exact location of creature or object."
+}, {
+    "name": "Earthquake",
+    "href": "http://paizo.com/pathfinderRPG/prd/coreRulebook/spells/earthquake.html#earthquake",
+    "short_description": ": Intense tremor shakes 80-ft.-radius."
+}, {
+    "name": "Fire Storm",
+    "href": "http://paizo.com/pathfinderRPG/prd/coreRulebook/spells/fireStorm.html#fire-storm",
+    "short_description": ": Deals 1d6/level fire damage."
+}, {
+    "name": "Holy Aura",
+    "href": "http://paizo.com/pathfinderRPG/prd/coreRulebook/spells/holyAura.html#holy-aura",
+    "short_description": "F: +4 to AC, +4 resistance, and SR 25 against evil spells."
+}, {
+    "name": "Inflict Critical Wounds, Mass",
+    "href": "http://paizo.com/pathfinderRPG/prd/coreRulebook/spells/inflictCriticalWounds.html#inflict-critical-wounds-mass",
+    "short_description": ": Deals 4d8 damage + 1/level, affects 1 subject/level."
+}, {
+    "name": "Planar Ally, Greater",
+    "href": "http://paizo.com/pathfinderRPG/prd/coreRulebook/spells/planarAlly.html#planar-ally-greater",
+    "short_description": "M: As lesser planar ally, but up to 18 HD."
+}, {
+    "name": "Shield of Law",
+    "href": "http://paizo.com/pathfinderRPG/prd/coreRulebook/spells/shieldOfLaw.html#shield-of-law",
+    "short_description": "F: +4 to AC, +4 resistance, and SR 25 against chaotic spells."
+}, {
+    "name": "Spell Immunity, Greater",
+    "href": "http://paizo.com/pathfinderRPG/prd/coreRulebook/spells/spellImmunity.html#spell-immunity-greater",
+    "short_description": ": As spell immunity, but up to 8th-level spells."
+}, {
+    "name": "Summon Monster VIII",
+    "href": "http://paizo.com/pathfinderRPG/prd/coreRulebook/spells/summonMonster.html#summon-monster-viii",
+    "short_description": ": Summons extraplanar creature to fight for you."
+}, {
+    "name": "Symbol of Death",
+    "href": "http://paizo.com/pathfinderRPG/prd/coreRulebook/spells/symbolOfDeath.html#symbol-of-death",
+    "short_description": "M: Triggered rune kills nearby creatures."
+}, {
+    "name": "Symbol of Insanity",
+    "href": "http://paizo.com/pathfinderRPG/prd/coreRulebook/spells/symbolOfInsanity.html#symbol-of-insanity",
+    "short_description": "M: Triggered rune renders nearby creatures insane."
+}, {
+    "name": "Unholy Aura",
+    "href": "http://paizo.com/pathfinderRPG/prd/coreRulebook/spells/unholyAura.html#unholy-aura",
+    "short_description": "F: +4 to AC, +4 resistance, and SR 25 against good spells."
+}, {
+    "name": "Astral Projection",
+    "href": "http://paizo.com/pathfinderRPG/prd/coreRulebook/spells/astralProjection.html#astral-projection",
+    "short_description": "M: Projects you and companions onto Astral Plane."
+}, {
+    "name": "Energy Drain",
+    "href": "http://paizo.com/pathfinderRPG/prd/coreRulebook/spells/energyDrain.html#energy-drain",
+    "short_description": ": Subject gains 2d4 negative levels."
+}, {
+    "name": "Etherealness",
+    "href": "http://paizo.com/pathfinderRPG/prd/coreRulebook/spells/etherealness.html#etherealness",
+    "short_description": ": Travel to Ethereal Plane with companions."
+}, {
+    "name": "Gate",
+    "href": "http://paizo.com/pathfinderRPG/prd/coreRulebook/spells/gate.html#gate",
+    "short_description": "M: Connects two planes for travel or summoning."
+}, {
+    "name": "Heal, Mass",
+    "href": "http://paizo.com/pathfinderRPG/prd/coreRulebook/spells/heal.html#heal-mass",
+    "short_description": ": As heal, but affects 1 subject/level."
+}, {
+    "name": "Implosion",
+    "href": "http://paizo.com/pathfinderRPG/prd/coreRulebook/spells/implosion.html#implosion",
+    "short_description": ": Inflict 10 damage/level to one creature/round."
+}, {
+    "name": "Miracle",
+    "href": "http://paizo.com/pathfinderRPG/prd/coreRulebook/spells/miracle.html#miracle",
+    "short_description": "M: Requests a deity's intercession."
+}, {
+    "name": "Soul Bind",
+    "href": "http://paizo.com/pathfinderRPG/prd/coreRulebook/spells/soulBind.html#soul-bind",
+    "short_description": "F: Traps newly dead soul to prevent resurrection."
+}, {
+    "name": "Storm of Vengeance",
+    "href": "http://paizo.com/pathfinderRPG/prd/coreRulebook/spells/stormOfVengeance.html#storm-of-vengeance",
+    "short_description": ": Storm rains acid, lightning, and hail."
+}, {
+    "name": "Summon Monster IX",
+    "href": "http://paizo.com/pathfinderRPG/prd/coreRulebook/spells/summonMonster.html#summon-monster-ix",
+    "short_description": ": Summons extraplanar creature to fight for you."
+}, {
+    "name": "True Resurrection",
+    "href": "http://paizo.com/pathfinderRPG/prd/coreRulebook/spells/trueResurrection.html#true-resurrection",
+    "short_description": "M: As resurrection, plus remains aren't needed."
+}, {
+    "name": "Calm Animals",
+    "href": "http://paizo.com/pathfinderRPG/prd/coreRulebook/spells/calmAnimals.html#calm-animals",
+    "short_description": ": Calms 2d4 + level HD of animals."
+}, {
+    "name": "Charm Animal",
+    "href": "http://paizo.com/pathfinderRPG/prd/coreRulebook/spells/charmAnimal.html#charm-animal",
+    "short_description": ": Makes one animal your friend."
+}, {
+    "name": "Detect Animals or Plants",
+    "href": "http://paizo.com/pathfinderRPG/prd/coreRulebook/spells/detectAnimalsOrPlants.html#detect-animals-or-plants",
+    "short_description": ": Detects kinds of animals or plants."
+}, {
+    "name": "Detect Snares and Pits",
+    "href": "http://paizo.com/pathfinderRPG/prd/coreRulebook/spells/detectSnaresAndPits.html#detect-snares-and-pits",
+    "short_description": ": Reveals natural or primitive traps."
+}, {
+    "name": "Entangle",
+    "href": "http://paizo.com/pathfinderRPG/prd/coreRulebook/spells/entangle.html#entangle",
+    "short_description": ": Plants entangle everyone in 40-ft. radius."
+}, {
+    "name": "Faerie Fire",
+    "href": "http://paizo.com/pathfinderRPG/prd/coreRulebook/spells/faerieFire.html#faerie-fire",
+    "short_description": ": Outlines subjects with light, canceling blur, concealment, and the like."
+}, {
+    "name": "Goodberry",
+    "href": "http://paizo.com/pathfinderRPG/prd/coreRulebook/spells/goodberry.html#goodberry",
+    "short_description": ": 2d4 berries each cure 1 hp (max 8 hp/24 hours)."
+}, {
+    "name": "Hide from Animals",
+    "href": "http://paizo.com/pathfinderRPG/prd/coreRulebook/spells/hideFromAnimals.html#hide-from-animals",
+    "short_description": ": Animals can't perceive one subject/level."
+}, {
+    "name": "Jump",
+    "href": "http://paizo.com/pathfinderRPG/prd/coreRulebook/spells/jump.html#jump",
+    "short_description": ": Subject gets bonus on Acrobatics checks."
+}, {
+    "name": "Longstrider",
+    "href": "http://paizo.com/pathfinderRPG/prd/coreRulebook/spells/longstrider.html#longstrider",
+    "short_description": ": Your base speed increases by 10 ft."
+}, {
+    "name": "Magic Fang",
+    "href": "http://paizo.com/pathfinderRPG/prd/coreRulebook/spells/magicFang.html#magic-fang",
+    "short_description": ": One natural weapon of subject creature gets +1 on attack and damage rolls."
+}, {
+    "name": "Pass without Trace",
+    "href": "http://paizo.com/pathfinderRPG/prd/coreRulebook/spells/passWithoutTrace.html#pass-without-trace",
+    "short_description": ": One subject/level leaves no tracks."
+}, {
+    "name": "Produce Flame",
+    "href": "http://paizo.com/pathfinderRPG/prd/coreRulebook/spells/produceFlame.html#produce-flame",
+    "short_description": ": 1d6 damage + 1/level, touch or thrown."
+}, {
+    "name": "Shillelagh",
+    "href": "http://paizo.com/pathfinderRPG/prd/coreRulebook/spells/shillelagh.html#shillelagh",
+    "short_description": ": Cudgel or quarterstaff becomes +1 weapon (2d6 damage) for 1 min./level."
+}, {
+    "name": "Summon Nature's Ally I",
+    "href": "http://paizo.com/pathfinderRPG/prd/coreRulebook/spells/summonNatureSAlly.html#summon-nature-s-ally-i",
+    "short_description": ": Summons creature to fight for you."
+}, {
+    "name": "Barkskin",
+    "href": "http://paizo.com/pathfinderRPG/prd/coreRulebook/spells/barkskin.html#barkskin",
+    "short_description": ": Grants +2 (or higher) enhancement to natural armor."
+}, {
+    "name": "Chill Metal",
+    "href": "http://paizo.com/pathfinderRPG/prd/coreRulebook/spells/chillMetal.html#chill-metal",
+    "short_description": ": Cold metal damages those who touch it."
+}, {
+    "name": "Fire Trap",
+    "href": "http://paizo.com/pathfinderRPG/prd/coreRulebook/spells/fireTrap.html#fire-trap",
+    "short_description": "M: Opened object deals 1d4 damage + 1/level."
+}, {
+    "name": "Flame Blade",
+    "href": "http://paizo.com/pathfinderRPG/prd/coreRulebook/spells/flameBlade.html#flame-blade",
+    "short_description": ": Touch attack deals 1d8 + 1/two levels damage."
+}, {
+    "name": "Flaming Sphere",
+    "href": "http://paizo.com/pathfinderRPG/prd/coreRulebook/spells/flamingSphere.html#flaming-sphere",
+    "short_description": ": Rolling ball of fire deals 3d6 fire damage."
+}, {
+    "name": "Fog Cloud",
+    "href": "http://paizo.com/pathfinderRPG/prd/coreRulebook/spells/fogCloud.html",
+    "short_description": ": Fog obscures vision."
+}, {
+    "name": "Gust of Wind",
+    "href": "http://paizo.com/pathfinderRPG/prd/coreRulebook/spells/gustOfWind.html#gust-of-wind",
+    "short_description": ": Blows away or knocks down smaller creatures."
+}, {
+    "name": "Heat Metal",
+    "href": "http://paizo.com/pathfinderRPG/prd/coreRulebook/spells/heatMetal.html#heat-metal",
+    "short_description": ": Makes metal so hot it damages those who touch it."
+}, {
+    "name": "Hold Animal",
+    "href": "http://paizo.com/pathfinderRPG/prd/coreRulebook/spells/holdAnimal.html#hold-animal",
+    "short_description": ": Paralyzes one animal for 1 round/level."
+}, {
+    "name": "Reduce Animal",
+    "href": "http://paizo.com/pathfinderRPG/prd/coreRulebook/spells/reduceAnimal.html#reduce-animal",
+    "short_description": ": Shrinks one willing animal."
+}, {
+    "name": "Soften Earth and Stone",
+    "href": "http://paizo.com/pathfinderRPG/prd/coreRulebook/spells/softenEarthAndStone.html#soften-earth-and-stone",
+    "short_description": ": Turns stone to clay, or dirt to sand or mud."
+}, {
+    "name": "Spider Climb",
+    "href": "http://paizo.com/pathfinderRPG/prd/coreRulebook/spells/spiderClimb.html#spider-climb",
+    "short_description": ": Grants ability to walk on walls and ceilings."
+}, {
+    "name": "Summon Nature's Ally II",
+    "href": "http://paizo.com/pathfinderRPG/prd/coreRulebook/spells/summonNatureSAlly.html#summon-nature-s-ally-ii",
+    "short_description": ": Summons creature to fight for you."
+}, {
+    "name": "Tree Shape",
+    "href": "http://paizo.com/pathfinderRPG/prd/coreRulebook/spells/treeShape.html#tree-shape",
+    "short_description": ": You look exactly like a tree for 1 hour/level."
+}, {
+    "name": "Warp Wood",
+    "href": "http://paizo.com/pathfinderRPG/prd/coreRulebook/spells/warpWood.html#warp-wood",
+    "short_description": ": Bends wood."
+}, {
+    "name": "Wood Shape",
+    "href": "http://paizo.com/pathfinderRPG/prd/coreRulebook/spells/woodShape.html#wood-shape",
+    "short_description": ": Reshapes wooden objects to suit you."
+}, {
+    "name": "Call Lightning",
+    "href": "http://paizo.com/pathfinderRPG/prd/coreRulebook/spells/callLightning.html#call-lightning",
+    "short_description": ": Calls down lightning bolts (3d6 per bolt) from sky."
+}, {
+    "name": "Diminish Plants",
+    "href": "http://paizo.com/pathfinderRPG/prd/coreRulebook/spells/diminishPlants.html#diminish-plants",
+    "short_description": ": Reduces size or blights growth of normal plants."
+}, {
+    "name": "Dominate Animal",
+    "href": "http://paizo.com/pathfinderRPG/prd/coreRulebook/spells/dominateAnimal.html#dominate-animal",
+    "short_description": ": One animal obeys your silent mental commands and orders."
+}, {
+    "name": "Magic Fang, Greater",
+    "href": "http://paizo.com/pathfinderRPG/prd/coreRulebook/spells/magicFang.html#magic-fang-greater",
+    "short_description": ": One natural weapon gets + 1/four levels (max. +5)."
+}, {
+    "name": "Plant Growth",
+    "href": "http://paizo.com/pathfinderRPG/prd/coreRulebook/spells/plantGrowth.html#plant-growth",
+    "short_description": ": Grows vegetation, improves crops."
+}, {
+    "name": "Quench",
+    "href": "http://paizo.com/pathfinderRPG/prd/coreRulebook/spells/quench.html#quench",
+    "short_description": ": Extinguishes fires."
+}, {
+    "name": "Sleet Storm",
+    "href": "http://paizo.com/pathfinderRPG/prd/coreRulebook/spells/sleetStorm.html#sleet-storm",
+    "short_description": ": Hampers vision and movement."
+}, {
+    "name": "Snare",
+    "href": "http://paizo.com/pathfinderRPG/prd/coreRulebook/spells/snare.html#snare",
+    "short_description": ": Creates a magic booby trap."
+}, {
+    "name": "Spike Growth",
+    "href": "http://paizo.com/pathfinderRPG/prd/coreRulebook/spells/spikeGrowth.html#spike-growth",
+    "short_description": ": Creatures in area take 1d4 damage, may be slowed."
+}, {
+    "name": "Summon Nature's Ally III",
+    "href": "http://paizo.com/pathfinderRPG/prd/coreRulebook/spells/summonNatureSAlly.html#summon-nature-s-ally-iii",
+    "short_description": ": Summons creature to fight for you."
+}, {
+    "name": "Antiplant Shell",
+    "href": "http://paizo.com/pathfinderRPG/prd/coreRulebook/spells/antiplantShell.html#antiplant-shell",
+    "short_description": ": Keeps animated plants at bay."
+}, {
+    "name": "Blight",
+    "href": "http://paizo.com/pathfinderRPG/prd/coreRulebook/spells/blight.html#blight",
+    "short_description": ": Withers one plant or deals 1d6/level damage to plant creature."
+}, {
+    "name": "Command Plants",
+    "href": "http://paizo.com/pathfinderRPG/prd/coreRulebook/spells/commandPlants.html#command-plants",
+    "short_description": ": Sway the actions of plant creatures."
+}, {
+    "name": "Ice Storm",
+    "href": "http://paizo.com/pathfinderRPG/prd/coreRulebook/spells/iceStorm.html#ice-storm",
+    "short_description": ": Hail deals 5d6 damage in cylinder 40 ft. across."
+}, {
+    "name": "Reincarnate",
+    "href": "http://paizo.com/pathfinderRPG/prd/coreRulebook/spells/reincarnate.html#reincarnate",
+    "short_description": ": Brings dead subject back in a random body."
+}, {
+    "name": "Rusting Grasp",
+    "href": "http://paizo.com/pathfinderRPG/prd/coreRulebook/spells/rustingGrasp.html#rusting-grasp",
+    "short_description": ": Your touch corrodes iron and alloys."
+}, {
+    "name": "Spike Stones",
+    "href": "http://paizo.com/pathfinderRPG/prd/coreRulebook/spells/spikeStones.html#spike-stones",
+    "short_description": ": Creatures in area take 1d8 damage, may also be slowed."
+}, {
+    "name": "Summon Nature's Ally IV",
+    "href": "http://paizo.com/pathfinderRPG/prd/coreRulebook/spells/summonNatureSAlly.html#summon-nature-s-ally-iv",
+    "short_description": ": Summons creature to fight for you."
+}, {
+    "name": "Animal Growth",
+    "href": "http://paizo.com/pathfinderRPG/prd/coreRulebook/spells/animalGrowth.html#animal-growth",
+    "short_description": ": One animal doubles in size."
+}, {
+    "name": "Awaken",
+    "href": "http://paizo.com/pathfinderRPG/prd/coreRulebook/spells/awaken.html#awaken",
+    "short_description": "M: Animal or tree gains human intellect."
+}, {
+    "name": "Baleful Polymorph",
+    "href": "http://paizo.com/pathfinderRPG/prd/coreRulebook/spells/balefulPolymorph.html#baleful-polymorph",
+    "short_description": ": Turns subject into harmless animal."
+}, {
+    "name": "Call Lightning Storm",
+    "href": "http://paizo.com/pathfinderRPG/prd/coreRulebook/spells/callLightningStorm.html#call-lightning-storm",
+    "short_description": ": As call lightning, but 5d6 damage per bolt."
+}, {
+    "name": "Commune with Nature",
+    "href": "http://paizo.com/pathfinderRPG/prd/coreRulebook/spells/communeWithNature.html#commune-with-nature",
+    "short_description": ": Learn about terrain for 1 mile/level."
+}, {
+    "name": "Control Winds",
+    "href": "http://paizo.com/pathfinderRPG/prd/coreRulebook/spells/controlWinds.html#control-winds",
+    "short_description": ": Changes wind direction and speed."
+}, {
+    "name": "Stoneskin",
+    "href": "http://paizo.com/pathfinderRPG/prd/coreRulebook/spells/stoneskin.html#stoneskin",
+    "short_description": "M: Grants DR 10/adamantine."
+}, {
+    "name": "Summon Nature's Ally V",
+    "href": "http://paizo.com/pathfinderRPG/prd/coreRulebook/spells/summonNatureSAlly.html#summon-nature-s-ally-v",
+    "short_description": ": Summons creature to fight."
+}, {
+    "name": "Transmute Mud to Rock",
+    "href": "http://paizo.com/pathfinderRPG/prd/coreRulebook/spells/transmuteMudToRock.html#transmute-mud-to-rock",
+    "short_description": ": Transforms two 10-ft. cubes per level."
+}, {
+    "name": "Transmute Rock to Mud",
+    "href": "http://paizo.com/pathfinderRPG/prd/coreRulebook/spells/transmuteRockToMud.html#transmute-rock-to-mud",
+    "short_description": ": Transforms two 10-ft. cubes per level."
+}, {
+    "name": "Tree Stride",
+    "href": "http://paizo.com/pathfinderRPG/prd/coreRulebook/spells/treeStride.html#tree-stride",
+    "short_description": ": Step from one tree to another far away."
+}, {
+    "name": "Wall of Fire",
+    "href": "http://paizo.com/pathfinderRPG/prd/coreRulebook/spells/wallOfFire.html#wall-of-fire",
+    "short_description": ": Deals 2d4 fire damage out to 10 ft. and 1d4 out to 20 ft. Passing through wall deals 2d6 damage + 1/level."
+}, {
+    "name": "Wall of Thorns",
+    "href": "http://paizo.com/pathfinderRPG/prd/coreRulebook/spells/wallOfThorns.html#wall-of-thorns",
+    "short_description": ": Thorns damage anyone who tries to pass."
+}, {
+    "name": "Fire Seeds",
+    "href": "http://paizo.com/pathfinderRPG/prd/coreRulebook/spells/fireSeeds.html#fire-seeds",
+    "short_description": ": Acorns and berries become grenades and bombs."
+}, {
+    "name": "Ironwood",
+    "href": "http://paizo.com/pathfinderRPG/prd/coreRulebook/spells/ironwood.html#ironwood",
+    "short_description": ": Magic wood is as strong as steel."
+}, {
+    "name": "Liveoak",
+    "href": "http://paizo.com/pathfinderRPG/prd/coreRulebook/spells/liveoak.html#liveoak",
+    "short_description": ": Oak becomes treant guardian."
+}, {
+    "name": "Move Earth",
+    "href": "http://paizo.com/pathfinderRPG/prd/coreRulebook/spells/moveEarth.html#move-earth",
+    "short_description": ": Digs trenches and builds hills."
+}, {
+    "name": "Repel Wood",
+    "href": "http://paizo.com/pathfinderRPG/prd/coreRulebook/spells/repelWood.html#repel-wood",
+    "short_description": ": Pushes away wooden objects."
+}, {
+    "name": "Spellstaff",
+    "href": "http://paizo.com/pathfinderRPG/prd/coreRulebook/spells/spellstaff.html#spellstaff",
+    "short_description": ": Stores one spell in wooden quarterstaff."
+}, {
+    "name": "Stone Tell",
+    "href": "http://paizo.com/pathfinderRPG/prd/coreRulebook/spells/stoneTell.html#stone-tell",
+    "short_description": ": Talk to natural or worked stone."
+}, {
+    "name": "Summon Nature's Ally VI",
+    "href": "http://paizo.com/pathfinderRPG/prd/coreRulebook/spells/summonNatureSAlly.html#summon-nature-s-ally-vi",
+    "short_description": ": Summons creature to fight."
+}, {
+    "name": "Transport via Plants",
+    "href": "http://paizo.com/pathfinderRPG/prd/coreRulebook/spells/transportViaPlants.html#transport-via-plants",
+    "short_description": ": Move instantly from one plant to another of the same kind."
+}, {
+    "name": "Animate Plants",
+    "href": "http://paizo.com/pathfinderRPG/prd/coreRulebook/spells/animatePlants.html#animate-plants",
+    "short_description": ": One or more plants animate and fight for you."
+}, {
+    "name": "Changestaff",
+    "href": "http://paizo.com/pathfinderRPG/prd/coreRulebook/spells/changestaff.html#changestaff",
+    "short_description": ": Your staff becomes a treant on command."
+}, {
+    "name": "Creeping Doom",
+    "href": "http://paizo.com/pathfinderRPG/prd/coreRulebook/spells/creepingDoom.html#creeping-doom",
+    "short_description": ": Swarms of centipedes attack at your command."
+}, {
+    "name": "Summon Nature's Ally VII",
+    "href": "http://paizo.com/pathfinderRPG/prd/coreRulebook/spells/summonNatureSAlly.html#summon-nature-s-ally-vii",
+    "short_description": ": Summons creature to fight."
+}, {
+    "name": "Sunbeam",
+    "href": "http://paizo.com/pathfinderRPG/prd/coreRulebook/spells/sunbeam.html#sunbeam",
+    "short_description": ": Beam blinds and deals 4d6 damage."
+}, {
+    "name": "Transmute Metal to Wood",
+    "href": "http://paizo.com/pathfinderRPG/prd/coreRulebook/spells/transmuteMetalToWood.html#transmute-metal-to-wood",
+    "short_description": ": Metal within 40 ft. becomes wood."
+}, {
+    "name": "Animal Shapes",
+    "href": "http://paizo.com/pathfinderRPG/prd/coreRulebook/spells/animalShapes.html#animal-shapes",
+    "short_description": ": One ally/level polymorphs into chosen animal."
+}, {
+    "name": "Control Plants",
+    "href": "http://paizo.com/pathfinderRPG/prd/coreRulebook/spells/controlPlants.html#control-plants",
+    "short_description": ": Controls actions of one or more plant creatures."
+}, {
+    "name": "Finger of Death",
+    "href": "http://paizo.com/pathfinderRPG/prd/coreRulebook/spells/fingerOfDeath.html#finger-of-death",
+    "short_description": ": Deals 10 damage/level to one subject."
+}, {
+    "name": "Repel Metal or Stone",
+    "href": "http://paizo.com/pathfinderRPG/prd/coreRulebook/spells/repelMetalOrStone.html#repel-metal-or-stone",
+    "short_description": ": Pushes away metal and stone."
+}, {
+    "name": "Reverse Gravity",
+    "href": "http://paizo.com/pathfinderRPG/prd/coreRulebook/spells/reverseGravity.html#reverse-gravity",
+    "short_description": ": Objects and creatures fall upward."
+}, {
+    "name": "Summon Nature's Ally VIII",
+    "href": "http://paizo.com/pathfinderRPG/prd/coreRulebook/spells/summonNatureSAlly.html#summon-nature-s-ally-viii",
+    "short_description": ": Summons creature to fight."
+}, {
+    "name": "Sunburst",
+    "href": "http://paizo.com/pathfinderRPG/prd/coreRulebook/spells/sunburst.html#sunburst",
+    "short_description": ": Blinds all within 10 ft., deals 6d6 damage."
+}, {
+    "name": "Whirlwind",
+    "href": "http://paizo.com/pathfinderRPG/prd/coreRulebook/spells/whirlwind.html#whirlwind",
+    "short_description": ": Cyclone deals damage and can pick up creatures."
+}, {
+    "name": "Antipathy",
+    "href": "http://paizo.com/pathfinderRPG/prd/coreRulebook/spells/antipathy.html#antipathy",
+    "short_description": ": Object or location affected by spell repels certain creatures."
+}, {
+    "name": "Elemental Swarm",
+    "href": "http://paizo.com/pathfinderRPG/prd/coreRulebook/spells/elementalSwarm.html#elemental-swarm",
+    "short_description": ": Summons multiple elementals."
+}, {
+    "name": "Foresight",
+    "href": "http://paizo.com/pathfinderRPG/prd/coreRulebook/spells/foresight.html#foresight",
+    "short_description": ": \"Sixth sense\" warns of impending danger."
+}, {
+    "name": "Shambler",
+    "href": "http://paizo.com/pathfinderRPG/prd/coreRulebook/spells/shambler.html#shambler",
+    "short_description": ": Creates 1d4+2 shambling mounds to fight for you."
+}, {
+    "name": "Shapechange",
+    "href": "http://paizo.com/pathfinderRPG/prd/coreRulebook/spells/shapechange.html#shapechange",
+    "short_description": "F: Transforms you into certain creatures, and lets you change forms once per round."
+}, {
+    "name": "Summon Nature's Ally IX",
+    "href": "http://paizo.com/pathfinderRPG/prd/coreRulebook/spells/summonNatureSAlly.html#summon-nature-s-ally-ix",
+    "short_description": ": Summons creature to fight."
+}, {
+    "name": "Sympathy",
+    "href": "http://paizo.com/pathfinderRPG/prd/coreRulebook/spells/sympathy.html#sympathy",
+    "short_description": "M: Object or location attracts certain creatures."
+}, {
+    "name": "Bless Weapon",
+    "href": "http://paizo.com/pathfinderRPG/prd/coreRulebook/spells/blessWeapon.html#bless-weapon",
+    "short_description": ": Weapon strikes true against evil foes."
+}, {
+    "name": "Protection from Chaos/Evil",
+    "href": "http://paizo.com/pathfinderRPG/prd/coreRulebook/spells/protectionFromEvil.html#protection-from-evil",
+    "short_description": ": +2 to AC and saves, plus additional protection against selected alignment."
+}, {
+    "name": "Heal Mount",
+    "href": "http://paizo.com/pathfinderRPG/prd/coreRulebook/spells/healMount.html#heal-mount",
+    "short_description": ": As heal on horse or other special mount."
+}, {
+    "name": "Magic Circle against Chaos/Evil",
+    "href": "http://paizo.com/pathfinderRPG/prd/coreRulebook/spells/magicCircleAgainstEvil.html#magic-circle-against-evil",
+    "short_description": ": As protection from chaos, but 10-ft. radius and 10 min./level."
+}, {
+    "name": "Dispel Chaos",
+    "href": "http://paizo.com/pathfinderRPG/prd/coreRulebook/spells/dispelChaos.html#dispel-chaos",
+    "short_description": ": +4 bonus against attacks by chaotic creatures."
+}, {
+    "name": "Dispel Evil",
+    "href": "http://paizo.com/pathfinderRPG/prd/coreRulebook/spells/dispelEvil.html#dispel-evil",
+    "short_description": ": +4 bonus against attacks by evil creatures."
+}, {
+    "name": "Holy Sword",
+    "href": "http://paizo.com/pathfinderRPG/prd/coreRulebook/spells/holySword.html#holy-sword",
+    "short_description": ": Weapon becomes +5, deals +2d6 damage against evil."
+}, {
+    "name": "Darkvision",
+    "href": "http://paizo.com/pathfinderRPG/prd/coreRulebook/spells/darkvision.html#darkvision",
+    "short_description": ": See 60 ft. in total darkness."
+}, {
+    "name": "Nondetection",
+    "href": "http://paizo.com/pathfinderRPG/prd/coreRulebook/spells/nondetection.html#nondetection",
+    "short_description": "M: Hides subject from divination, scrying."
+}, {
+    "name": "Acid Splash",
+    "href": "http://paizo.com/pathfinderRPG/prd/coreRulebook/spells/acidSplash.html#acid-splash",
+    "short_description": ": Orb deals 1d3 acid damage."
+}, {
+    "name": "Ray of Frost",
+    "href": "http://paizo.com/pathfinderRPG/prd/coreRulebook/spells/rayOfFrost.html#ray-of-frost",
+    "short_description": ": Ray deals 1d3 cold damage."
+}, {
+    "name": "Disrupt Undead",
+    "href": "http://paizo.com/pathfinderRPG/prd/coreRulebook/spells/disruptUndead.html#disrupt-undead",
+    "short_description": ": Deals 1d6 damage to one undead."
+}, {
+    "name": "Touch of Fatigue",
+    "href": "http://paizo.com/pathfinderRPG/prd/coreRulebook/spells/touchOfFatigue.html#touch-of-fatigue",
+    "short_description": ": Touch attack fatigues target."
+}, {
+    "name": "Arcane Mark",
+    "href": "http://paizo.com/pathfinderRPG/prd/coreRulebook/spells/arcaneMark.html#arcane-mark",
+    "short_description": ": Inscribes a personal rune on an object or creature (visible or invisible)."
+}, {
+    "name": "Hold Portal",
+    "href": "http://paizo.com/pathfinderRPG/prd/coreRulebook/spells/holdPortal.html#hold-portal",
+    "short_description": ": Holds door shut."
+}, {
+    "name": "Shield",
+    "href": "http://paizo.com/pathfinderRPG/prd/coreRulebook/spells/shield.html#shield",
+    "short_description": ": Invisible disc gives +4 to AC, blocks magic missiles."
+}, {
+    "name": "Mage Armor",
+    "href": "http://paizo.com/pathfinderRPG/prd/coreRulebook/spells/mageArmor.html#mage-armor",
+    "short_description": ": Gives subject +4 armor bonus."
+}, {
+    "name": "Mount",
+    "href": "http://paizo.com/pathfinderRPG/prd/coreRulebook/spells/mount.html#mount",
+    "short_description": ": Summons riding horse for 2 hours/level."
+}, {
+    "name": "True Strike",
+    "href": "http://paizo.com/pathfinderRPG/prd/coreRulebook/spells/trueStrike.html#true-strike",
+    "short_description": ": +20 on your next attack roll."
+}, {
+    "name": "Burning Hands",
+    "href": "http://paizo.com/pathfinderRPG/prd/coreRulebook/spells/burningHands.html#burning-hands",
+    "short_description": ": 1d4/level fire damage (max 5d4)."
+}, {
+    "name": "Floating Disk",
+    "href": "http://paizo.com/pathfinderRPG/prd/coreRulebook/spells/floatingDisk.html#floating-disk",
+    "short_description": ": Creates 3-ft.-diameter horizontal disk that holds 100 lbs./level."
+}, {
+    "name": "Magic Missile",
+    "href": "http://paizo.com/pathfinderRPG/prd/coreRulebook/spells/magicMissile.html#magic-missile",
+    "short_description": ": 1d4+1 damage; +1 missile per two levels above 1st (max 5)."
+}, {
+    "name": "Shocking Grasp",
+    "href": "http://paizo.com/pathfinderRPG/prd/coreRulebook/spells/shockingGrasp.html#shocking-grasp",
+    "short_description": ": Touch delivers 1d6/level electricity damage (max 5d6)."
+}, {
+    "name": "Color Spray",
+    "href": "http://paizo.com/pathfinderRPG/prd/coreRulebook/spells/colorSpray.html#color-spray",
+    "short_description": ": Knocks unconscious, blinds, and/or stuns weak creatures."
+}, {
+    "name": "Chill Touch",
+    "href": "http://paizo.com/pathfinderRPG/prd/coreRulebook/spells/chillTouch.html#chill-touch",
+    "short_description": ": One touch/level deals 1d6 damage and possibly 1 Str damage."
+}, {
+    "name": "Ray of Enfeeblement",
+    "href": "http://paizo.com/pathfinderRPG/prd/coreRulebook/spells/rayOfEnfeeblement.html#ray-of-enfeeblement",
+    "short_description": ": Ray causes 1d6 Str penalty + 1 per 2 levels."
+}, {
+    "name": "Enlarge Person",
+    "href": "http://paizo.com/pathfinderRPG/prd/coreRulebook/spells/enlargePerson.html#enlarge-person",
+    "short_description": ": Humanoid creature doubles in size."
+}, {
+    "name": "Reduce Person",
+    "href": "http://paizo.com/pathfinderRPG/prd/coreRulebook/spells/reducePerson.html#reduce-person",
+    "short_description": ": Humanoid creature halves in size."
+}, {
+    "name": "Arcane Lock",
+    "href": "http://paizo.com/pathfinderRPG/prd/coreRulebook/spells/arcaneLock.html#arcane-lock",
+    "short_description": "M: Magically locks a portal or chest."
+}, {
+    "name": "Protection from Arrows",
+    "href": "http://paizo.com/pathfinderRPG/prd/coreRulebook/spells/protectionFromArrows.html#protection-from-arrows",
+    "short_description": ": Subject gains DR 10/magic against ranged attacks."
+}, {
+    "name": "Acid Arrow",
+    "href": "http://paizo.com/pathfinderRPG/prd/coreRulebook/spells/acidArrow.html#acid-arrow",
+    "short_description": ": Ranged touch attack; 2d4 damage for 1 round + 1 round/three levels."
+}, {
+    "name": "Web",
+    "href": "http://paizo.com/pathfinderRPG/prd/coreRulebook/spells/web.html#web",
+    "short_description": ": Fills 20-ft.-radius spread with sticky spiderwebs that can grapple foes and impair movement."
+}, {
+    "name": "Touch of Idiocy",
+    "href": "http://paizo.com/pathfinderRPG/prd/coreRulebook/spells/touchOfIdiocy.html#touch-of-idiocy",
+    "short_description": ": Subject takes 1d6 penalty to Int, Wis, and Cha."
+}, {
+    "name": "Scorching Ray",
+    "href": "http://paizo.com/pathfinderRPG/prd/coreRulebook/spells/scorchingRay.html#scorching-ray",
+    "short_description": ": Ranged touch attack deals 4d6 fire damage, + 1 ray/four levels (max 3)."
+}, {
+    "name": "Phantom Trap",
+    "href": "http://paizo.com/pathfinderRPG/prd/coreRulebook/spells/phantomTrap.html#phantom-trap",
+    "short_description": "M: Makes item seem trapped."
+}, {
+    "name": "Command Undead",
+    "href": "http://paizo.com/pathfinderRPG/prd/coreRulebook/spells/commandUndead.html#command-undead",
+    "short_description": ": Undead creature obeys your commands."
+}, {
+    "name": "False Life",
+    "href": "http://paizo.com/pathfinderRPG/prd/coreRulebook/spells/falseLife.html#false-life",
+    "short_description": ": Gain 1d10 temporary hp + 1/level (max +10)."
+}, {
+    "name": "Ghoul Touch",
+    "href": "http://paizo.com/pathfinderRPG/prd/coreRulebook/spells/ghoulTouch.html#ghoul-touch",
+    "short_description": ": Paralyzes one subject, which exudes stench that makes those nearby sickened."
+}, {
+    "name": "Spectral Hand",
+    "href": "http://paizo.com/pathfinderRPG/prd/coreRulebook/spells/spectralHand.html#spectral-hand",
+    "short_description": ": Creates disembodied glowing hand to deliver touch attacks."
+}, {
+    "name": "Knock",
+    "href": "http://paizo.com/pathfinderRPG/prd/coreRulebook/spells/knock.html#knock",
+    "short_description": ": Opens locked or magically sealed door."
+}, {
+    "name": "Levitate",
+    "href": "http://paizo.com/pathfinderRPG/prd/coreRulebook/spells/levitate.html#levitate",
+    "short_description": ": Subject moves up and down at your direction."
+}, {
+    "name": "Rope Trick",
+    "href": "http://paizo.com/pathfinderRPG/prd/coreRulebook/spells/ropeTrick.html#rope-trick",
+    "short_description": ": As many as eight creatures hide in extradimensional space."
+}, {
+    "name": "Explosive Runes",
+    "href": "http://paizo.com/pathfinderRPG/prd/coreRulebook/spells/explosiveRunes.html#explosive-runes",
+    "short_description": ": Deals 6d6 damage when read."
+}, {
+    "name": "Stinking Cloud",
+    "href": "http://paizo.com/pathfinderRPG/prd/coreRulebook/spells/stinkingCloud.html#stinking-cloud",
+    "short_description": ": Nauseating vapors, 1 round/level."
+}, {
+    "name": "Arcane Sight",
+    "href": "http://paizo.com/pathfinderRPG/prd/coreRulebook/spells/arcaneSight.html#arcane-sight",
+    "short_description": ": Magical auras become visible to you."
+}, {
+    "name": "Fireball",
+    "href": "http://paizo.com/pathfinderRPG/prd/coreRulebook/spells/fireball.html#fireball",
+    "short_description": ": 1d6 damage per level, 20-ft. radius."
+}, {
+    "name": "Lightning Bolt",
+    "href": "http://paizo.com/pathfinderRPG/prd/coreRulebook/spells/lightningBolt.html#lightning-bolt",
+    "short_description": ": Electricity deals 1d6/level damage."
+}, {
+    "name": "Halt Undead",
+    "href": "http://paizo.com/pathfinderRPG/prd/coreRulebook/spells/haltUndead.html#halt-undead-copy",
+    "short_description": ": Immobilizes undead for 1 round/level."
+}, {
+    "name": "Ray of Exhaustion",
+    "href": "http://paizo.com/pathfinderRPG/prd/coreRulebook/spells/rayOfExhaustion.html#ray-of-exhaustion",
+    "short_description": ": Ray makes subject exhausted."
+}, {
+    "name": "Vampiric Touch",
+    "href": "http://paizo.com/pathfinderRPG/prd/coreRulebook/spells/vampiricTouch.html#vampiric-touch",
+    "short_description": ": Touch deals 1d6 damage per two levels; caster gains damage as temporary hp."
+}, {
+    "name": "Beast Shape I",
+    "href": "http://paizo.com/pathfinderRPG/prd/coreRulebook/spells/beastShape.html#beast-shape-i",
+    "short_description": ": You take the form and some of the powers of a Small or Medium animal."
+}, {
+    "name": "Flame Arrow",
+    "href": "http://paizo.com/pathfinderRPG/prd/coreRulebook/spells/flameArrow.html#flame-arrow",
+    "short_description": ": Arrows deal +1d6 fire damage."
+}, {
+    "name": "Fly",
+    "href": "http://paizo.com/pathfinderRPG/prd/coreRulebook/spells/fly.html",
+    "short_description": ": Subject flies at speed of 60 ft."
+}, {
+    "name": "Keen Edge",
+    "href": "http://paizo.com/pathfinderRPG/prd/coreRulebook/spells/keenEdge.html#keen-edge",
+    "short_description": ": Doubles normal weapon's threat range."
+}, {
+    "name": "Shrink Item",
+    "href": "http://paizo.com/pathfinderRPG/prd/coreRulebook/spells/shrinkItem.html#shrink-item",
+    "short_description": ": Object shrinks to one-sixteenth size."
+}, {
+    "name": "Globe of Invulnerability, Lesser",
+    "href": "http://paizo.com/pathfinderRPG/prd/coreRulebook/spells/globeOfInvulnerability.html#globe-of-invulnerability-lesser",
+    "short_description": ": Stops 1st- through 3rd-level spell effects."
+}, {
+    "name": "Black Tentacles",
+    "href": "http://paizo.com/pathfinderRPG/prd/coreRulebook/spells/blackTentacles.html#black-tentacles",
+    "short_description": ": Tentacles grapple all creatures within a 20-ft. spread."
+}, {
+    "name": "Minor Creation",
+    "href": "http://paizo.com/pathfinderRPG/prd/coreRulebook/spells/minorCreation.html#minor-creation",
+    "short_description": ": Creates one cloth or wood object."
+}, {
+    "name": "Solid Fog",
+    "href": "http://paizo.com/pathfinderRPG/prd/coreRulebook/spells/solidFog.html#solid-fog",
+    "short_description": ": Blocks vision and slows movement."
+}, {
+    "name": "Arcane Eye",
+    "href": "http://paizo.com/pathfinderRPG/prd/coreRulebook/spells/arcaneEye.html#arcane-eye",
+    "short_description": ": Invisible floating eye moves 30 ft./round."
+}, {
+    "name": "Fire Shield",
+    "href": "http://paizo.com/pathfinderRPG/prd/coreRulebook/spells/fireShield.html#fire-shield",
+    "short_description": ": Creatures attacking you take fire damage; you're protected from heat or cold."
+}, {
+    "name": "Resilient Sphere",
+    "href": "http://paizo.com/pathfinderRPG/prd/coreRulebook/spells/resilientSphere.html#resilient-sphere",
+    "short_description": ": Force globe protects but traps one subject."
+}, {
+    "name": "Wall of Ice",
+    "href": "http://paizo.com/pathfinderRPG/prd/coreRulebook/spells/wallOfIce.html#wall-of-ice",
+    "short_description": ": Ice plane creates wall or hemisphere creates dome."
+}, {
+    "name": "Illusory Wall",
+    "href": "http://paizo.com/pathfinderRPG/prd/coreRulebook/spells/illusoryWall.html#illusory-wall",
+    "short_description": ": Wall, floor, or ceiling looks real, but anything can pass through."
+}, {
+    "name": "Phantasmal Killer",
+    "href": "http://paizo.com/pathfinderRPG/prd/coreRulebook/spells/phantasmalKiller.html#phantasmal-killer",
+    "short_description": ": Fearsome illusion kills subject or deals 3d6 damage."
+}, {
+    "name": "Enervation",
+    "href": "http://paizo.com/pathfinderRPG/prd/coreRulebook/spells/enervation.html#enervation",
+    "short_description": ": Subject gains 1d4 negative levels."
+}, {
+    "name": "Beast Shape II",
+    "href": "http://paizo.com/pathfinderRPG/prd/coreRulebook/spells/beastShape.html#beast-shape-ii",
+    "short_description": ": You take the form and some of the powers of a Tiny or Large animal."
+}, {
+    "name": "Elemental Body I",
+    "href": "http://paizo.com/pathfinderRPG/prd/coreRulebook/spells/elementalBody.html#elemental-body-i",
+    "short_description": ": Turns you into a Small elemental."
+}, {
+    "name": "Enlarge Person, Mass",
+    "href": "http://paizo.com/pathfinderRPG/prd/coreRulebook/spells/enlargePerson.html#enlarge-person-mass",
+    "short_description": ": 1 humanoid creature/level doubles in size."
+}, {
+    "name": "Mnemonic Enhancer",
+    "href": "http://paizo.com/pathfinderRPG/prd/coreRulebook/spells/mnemonicEnhancer.html#mnemonic-enhancer",
+    "short_description": "F: Wizard only. Prepare extra spells or retain one just cast."
+}, {
+    "name": "Reduce Person, Mass",
+    "href": "http://paizo.com/pathfinderRPG/prd/coreRulebook/spells/reducePerson.html#reduce-person-mass",
+    "short_description": ": As reduce person, but affects 1 humanoid creature/level."
+}, {
+    "name": "Mage's Private Sanctum",
+    "href": "http://paizo.com/pathfinderRPG/prd/coreRulebook/spells/mageSPrivateSanctum.html#mage-s-private-sanctum",
+    "short_description": ": Prevents anyone from viewing or scrying an area for 24 hours."
+}, {
+    "name": "Cloudkill",
+    "href": "http://paizo.com/pathfinderRPG/prd/coreRulebook/spells/cloudkill.html#cloudkill",
+    "short_description": ": Kills 3 HD or less; 4–6 HD save or die, 6+ HD take Con damage."
+}, {
+    "name": "Mage's Faithful Hound",
+    "href": "http://paizo.com/pathfinderRPG/prd/coreRulebook/spells/mageSFaithfulHound.html#mage-s-faithful-hound",
+    "short_description": ": Phantom dog can guard a location and attack intruders."
+}, {
+    "name": "Major Creation",
+    "href": "http://paizo.com/pathfinderRPG/prd/coreRulebook/spells/majorCreation.html#major-creation",
+    "short_description": ": As minor creation, plus stone and metal."
+}, {
+    "name": "Planar Binding, Lesser",
+    "href": "http://paizo.com/pathfinderRPG/prd/coreRulebook/spells/planarBinding.html#planar-binding-lesser",
+    "short_description": ": Traps extraplanar creature of 6 HD or less until it performs a task."
+}, {
+    "name": "Secret Chest",
+    "href": "http://paizo.com/pathfinderRPG/prd/coreRulebook/spells/secretChest.html#secret-chest",
+    "short_description": "F: Hides expensive chest on Ethereal Plane; you retrieve it at will."
+}, {
+    "name": "Teleport",
+    "href": "http://paizo.com/pathfinderRPG/prd/coreRulebook/spells/teleport.html#teleport",
+    "short_description": ": Instantly transports you as far as 100 miles per level."
+}, {
+    "name": "Contact Other Plane",
+    "href": "http://paizo.com/pathfinderRPG/prd/coreRulebook/spells/contactOtherPlane.html#contact-other-plane",
+    "short_description": ": Lets you ask question of extraplanar entity."
+}, {
+    "name": "Prying Eyes",
+    "href": "http://paizo.com/pathfinderRPG/prd/coreRulebook/spells/pryingEyes.html#prying-eyes",
+    "short_description": ": 1d4 + 1/level floating eyes scout for you."
+}, {
+    "name": "Telepathic Bond",
+    "href": "http://paizo.com/pathfinderRPG/prd/coreRulebook/spells/telepathicBond.html#telepathic-bond",
+    "short_description": ": Link lets allies communicate."
+}, {
+    "name": "Feeblemind",
+    "href": "http://paizo.com/pathfinderRPG/prd/coreRulebook/spells/feeblemind.html#feeblemind",
+    "short_description": ": Subject's Int and Cha drop to 1."
+}, {
+    "name": "Cone of Cold",
+    "href": "http://paizo.com/pathfinderRPG/prd/coreRulebook/spells/coneOfCold.html#cone-of-cold",
+    "short_description": ": 1d6/level cold damage."
+}, {
+    "name": "Interposing Hand",
+    "href": "http://paizo.com/pathfinderRPG/prd/coreRulebook/spells/interposingHand.html#interposing-hand",
+    "short_description": ": Hand provides cover against 1 opponent."
+}, {
+    "name": "Wall of Force",
+    "href": "http://paizo.com/pathfinderRPG/prd/coreRulebook/spells/wallOfForce.html#wall-of-force",
+    "short_description": ": Wall is immune to damage."
+}, {
+    "name": "Magic Jar",
+    "href": "http://paizo.com/pathfinderRPG/prd/coreRulebook/spells/magicJar.html#magic-jar",
+    "short_description": "F: Enables possession of another creature."
+}, {
+    "name": "Waves of Fatigue",
+    "href": "http://paizo.com/pathfinderRPG/prd/coreRulebook/spells/wavesOfFatigue.html#waves-of-fatigue",
+    "short_description": ": Several targets become fatigued."
+}, {
+    "name": "Beast Shape III",
+    "href": "http://paizo.com/pathfinderRPG/prd/coreRulebook/spells/beastShape.html#beast-shape-iii",
+    "short_description": ": You take the form of a Diminutive or Huge animal, or Small or Medium magical beast."
+}, {
+    "name": "Elemental Body II",
+    "href": "http://paizo.com/pathfinderRPG/prd/coreRulebook/spells/elementalBody.html#elemental-body-ii",
+    "short_description": ": Turns you into a Medium elemental."
+}, {
+    "name": "Fabricate",
+    "href": "http://paizo.com/pathfinderRPG/prd/coreRulebook/spells/fabricate.html#fabricate",
+    "short_description": "M: Transforms raw materials into finished items."
+}, {
+    "name": "Overland Flight",
+    "href": "http://paizo.com/pathfinderRPG/prd/coreRulebook/spells/overlandFlight.html#overland-flight",
+    "short_description": ": You fly at a speed of 40 ft. and can hustle over long distances."
+}, {
+    "name": "Passwall",
+    "href": "http://paizo.com/pathfinderRPG/prd/coreRulebook/spells/passwall.html#passwall",
+    "short_description": ": Creates passage through wood or stone wall."
+}, {
+    "name": "Plant Shape I",
+    "href": "http://paizo.com/pathfinderRPG/prd/coreRulebook/spells/plantShape.html#plant-shape-i",
+    "short_description": ": Turns you into a Small or Medium plant."
+}, {
+    "name": "Polymorph",
+    "href": "http://paizo.com/pathfinderRPG/prd/coreRulebook/spells/polymorph.html#polymorph",
+    "short_description": ": Gives one willing subject a new form."
+}, {
+    "name": "Telekinesis",
+    "href": "http://paizo.com/pathfinderRPG/prd/coreRulebook/spells/telekinesis.html#telekinesis",
+    "short_description": ": Moves object, attacks creature, or hurls object or creature."
+}, {
+    "name": "Permanency",
+    "href": "http://paizo.com/pathfinderRPG/prd/coreRulebook/spells/permanency.html#permanency",
+    "short_description": "M: Makes certain spells permanent."
+}, {
+    "name": "Globe of Invulnerability",
+    "href": "http://paizo.com/pathfinderRPG/prd/coreRulebook/spells/globeOfInvulnerability.html#globe-of-invulnerability",
+    "short_description": ": As lesser globe of invulnerability, plus 4th-level spell effects."
+}, {
+    "name": "Guards and Wards",
+    "href": "http://paizo.com/pathfinderRPG/prd/coreRulebook/spells/guardsAndWards.html#guards-and-wards",
+    "short_description": ": Array of magic effects protect area."
+}, {
+    "name": "Acid Fog",
+    "href": "http://paizo.com/pathfinderRPG/prd/coreRulebook/spells/acidFog.html#acid-fog",
+    "short_description": ": Fog deals acid damage."
+}, {
+    "name": "Planar Binding",
+    "href": "http://paizo.com/pathfinderRPG/prd/coreRulebook/spells/planarBinding.html#planar-binding",
+    "short_description": ": As lesser planar binding, but up to 12 HD."
+}, {
+    "name": "Wall of Iron",
+    "href": "http://paizo.com/pathfinderRPG/prd/coreRulebook/spells/wallOfIron.html#wall-of-iron",
+    "short_description": "M: 30 hp/four levels; can topple onto foes."
+}, {
+    "name": "Chain Lightning",
+    "href": "http://paizo.com/pathfinderRPG/prd/coreRulebook/spells/chainLightning.html#chain-lightning",
+    "short_description": ": 1d6/level damage and 1 secondary bolt/level."
+}, {
+    "name": "Contingency",
+    "href": "http://paizo.com/pathfinderRPG/prd/coreRulebook/spells/contingency.html#contingency",
+    "short_description": "F: Sets trigger condition for another spell."
+}, {
+    "name": "Forceful Hand",
+    "href": "http://paizo.com/pathfinderRPG/prd/coreRulebook/spells/forcefulHand.html#forceful-hand",
+    "short_description": ": Hand pushes creatures away."
+}, {
+    "name": "Freezing Sphere",
+    "href": "http://paizo.com/pathfinderRPG/prd/coreRulebook/spells/freezingSphere.html#freezing-sphere",
+    "short_description": ": Freezes water or deals cold damage."
+}, {
+    "name": "Circle of Death",
+    "href": "http://paizo.com/pathfinderRPG/prd/coreRulebook/spells/circleOfDeath.html#circle-of-death",
+    "short_description": "M: Kills 1d4/level HD of creatures."
+}, {
+    "name": "Beast Shape IV",
+    "href": "http://paizo.com/pathfinderRPG/prd/coreRulebook/spells/beastShape.html#beast-shape-iv",
+    "short_description": ": You take the form of a Diminutive to Huge animal or a Tiny to Large magical beast."
+}, {
+    "name": "Disintegrate",
+    "href": "http://paizo.com/pathfinderRPG/prd/coreRulebook/spells/disintegrate.html#disintegrate",
+    "short_description": ": Reduces one creature or object to dust."
+}, {
+    "name": "Elemental Body III",
+    "href": "http://paizo.com/pathfinderRPG/prd/coreRulebook/spells/elementalBody.html#elemental-body-iii",
+    "short_description": ": Turns you into a Large elemental."
+}, {
+    "name": "Flesh to Stone",
+    "href": "http://paizo.com/pathfinderRPG/prd/coreRulebook/spells/fleshToStone.html#flesh-to-stone",
+    "short_description": ": Turns subject creature into statue."
+}, {
+    "name": "Form of the Dragon I",
+    "href": "http://paizo.com/pathfinderRPG/prd/coreRulebook/spells/formOfTheDragon.html#form-of-the-dragon-i",
+    "short_description": ": Turns you into a Medium dragon."
+}, {
+    "name": "Mage's Lucubration",
+    "href": "http://paizo.com/pathfinderRPG/prd/coreRulebook/spells/mageSLucubration.html#mage-s-lucubration",
+    "short_description": ": Wizard only. Recalls spell of 5th level or lower."
+}, {
+    "name": "Plant Shape II",
+    "href": "http://paizo.com/pathfinderRPG/prd/coreRulebook/spells/plantShape.html#plant-shape-ii",
+    "short_description": ": Turns you into a Large plant creature."
+}, {
+    "name": "Stone to Flesh",
+    "href": "http://paizo.com/pathfinderRPG/prd/coreRulebook/spells/stoneToFlesh.html#stone-to-flesh",
+    "short_description": ": Restores petrified creature."
+}, {
+    "name": "Transformation",
+    "href": "http://paizo.com/pathfinderRPG/prd/coreRulebook/spells/transformation.html#transformation",
+    "short_description": "M: You gain combat bonuses."
+}, {
+    "name": "Sequester",
+    "href": "http://paizo.com/pathfinderRPG/prd/coreRulebook/spells/sequester.html#sequester",
+    "short_description": ": Subject is invisible to sight and scrying; renders creature comatose."
+}, {
+    "name": "Spell Turning",
+    "href": "http://paizo.com/pathfinderRPG/prd/coreRulebook/spells/spellTurning.html#spell-turning",
+    "short_description": "M: Reflect 1d4+6 spell levels back at caster."
+}, {
+    "name": "Instant Summons",
+    "href": "http://paizo.com/pathfinderRPG/prd/coreRulebook/spells/instantSummons.html#instant-summons",
+    "short_description": "M: Prepared object appears in your hand."
+}, {
+    "name": "Mage's Magnificent Mansion",
+    "href": "http://paizo.com/pathfinderRPG/prd/coreRulebook/spells/mageSMagnificentMansion.html#mage-s-magnificent-mansion",
+    "short_description": "F: Door leads to extradimensional mansion."
+}, {
+    "name": "Phase Door",
+    "href": "http://paizo.com/pathfinderRPG/prd/coreRulebook/spells/phaseDoor.html#phase-door",
+    "short_description": ": Creates an invisible passage through a barrier."
+}, {
+    "name": "Teleport, Greater",
+    "href": "http://paizo.com/pathfinderRPG/prd/coreRulebook/spells/teleport.html#teleport-greater",
+    "short_description": ": As teleport, but no range limit and no off-target arrival."
+}, {
+    "name": "Teleport Object",
+    "href": "http://paizo.com/pathfinderRPG/prd/coreRulebook/spells/teleportObject.html#teleport-object",
+    "short_description": ": As teleport, but affects a touched object."
+}, {
+    "name": "Arcane Sight, Greater",
+    "href": "http://paizo.com/pathfinderRPG/prd/coreRulebook/spells/arcaneSight.html#arcane-sight-greater",
+    "short_description": ": As arcane sight, but also reveals magic effects on creatures and objects."
+}, {
+    "name": "Vision",
+    "href": "http://paizo.com/pathfinderRPG/prd/coreRulebook/spells/vision.html#vision",
+    "short_description": "M: As legend lore, but quicker."
+}, {
+    "name": "Hold Person, Mass",
+    "href": "http://paizo.com/pathfinderRPG/prd/coreRulebook/spells/holdPerson.html#hold-person-mass",
+    "short_description": ": As hold person, but all within 30 ft."
+}, {
+    "name": "Insanity",
+    "href": "http://paizo.com/pathfinderRPG/prd/coreRulebook/spells/insanity.html#insanity",
+    "short_description": ": Subject suffers continuous confusion."
+}, {
+    "name": "Power Word Blind",
+    "href": "http://paizo.com/pathfinderRPG/prd/coreRulebook/spells/powerWordBlind.html#power-word-blind",
+    "short_description": ": Blinds creature with 200 hp or less."
+}, {
+    "name": "Delayed Blast Fireball",
+    "href": "http://paizo.com/pathfinderRPG/prd/coreRulebook/spells/delayedBlastFireball.html#delayed-blast-fireball",
+    "short_description": ": 1d6/level fire damage; you can postpone blast for up to 5 rounds."
+}, {
+    "name": "Forcecage",
+    "href": "http://paizo.com/pathfinderRPG/prd/coreRulebook/spells/forcecage.html#forcecage",
+    "short_description": "M: Cube or cage of force imprisons all inside."
+}, {
+    "name": "Grasping Hand",
+    "href": "http://paizo.com/pathfinderRPG/prd/coreRulebook/spells/graspingHand.html#grasping-hand",
+    "short_description": ": Hand provides cover, pushes, or grapples."
+}, {
+    "name": "Mage's Sword",
+    "href": "http://paizo.com/pathfinderRPG/prd/coreRulebook/spells/mageSSword.html#mage-s-sword",
+    "short_description": "F: Floating magic blade strikes opponents."
+}, {
+    "name": "Prismatic Spray",
+    "href": "http://paizo.com/pathfinderRPG/prd/coreRulebook/spells/prismaticSpray.html#prismatic-spray",
+    "short_description": ": Rays hit subjects with variety of effects."
+}, {
+    "name": "Invisibility, Mass",
+    "href": "http://paizo.com/pathfinderRPG/prd/coreRulebook/spells/invisibility.html#invisibility-mass",
+    "short_description": ": As invisibility, but affects all in range."
+}, {
+    "name": "Shadow Conjuration, Greater",
+    "href": "http://paizo.com/pathfinderRPG/prd/coreRulebook/spells/shadowConjuration.html#shadow-conjuration-greater",
+    "short_description": ": As shadow conjuration, but up to 6th level and 60% real."
+}, {
+    "name": "Simulacrum",
+    "href": "http://paizo.com/pathfinderRPG/prd/coreRulebook/spells/simulacrum.html#simulacrum",
+    "short_description": "M: Creates partially real double of a creature."
+}, {
+    "name": "Control Undead",
+    "href": "http://paizo.com/pathfinderRPG/prd/coreRulebook/spells/controlUndead.html#control-undead",
+    "short_description": ": Undead don't attack you while under your command."
+}, {
+    "name": "Waves of Exhaustion",
+    "href": "http://paizo.com/pathfinderRPG/prd/coreRulebook/spells/wavesOfExhaustion.html#waves-of-exhaustion",
+    "short_description": ": Several targets become exhausted."
+}, {
+    "name": "Elemental Body IV",
+    "href": "http://paizo.com/pathfinderRPG/prd/coreRulebook/spells/elementalBody.html#elemental-body-iv",
+    "short_description": ": Turns you into a Huge elemental."
+}, {
+    "name": "Form of the Dragon II",
+    "href": "http://paizo.com/pathfinderRPG/prd/coreRulebook/spells/formOfTheDragon.html#form-of-the-dragon-ii",
+    "short_description": ": Turns you into a Large dragon."
+}, {
+    "name": "Giant Form I",
+    "href": "http://paizo.com/pathfinderRPG/prd/coreRulebook/spells/giantForm.html#giant-form-i",
+    "short_description": ": Turns you into a Large giant."
+}, {
+    "name": "Plant Shape III",
+    "href": "http://paizo.com/pathfinderRPG/prd/coreRulebook/spells/plantShape.html#plant-shape-iii",
+    "short_description": ": Turns you into a Huge plant."
+}, {
+    "name": "Polymorph, Greater",
+    "href": "http://paizo.com/pathfinderRPG/prd/coreRulebook/spells/polymorph.html#polymorph-greater",
+    "short_description": ": Gives one willing subject a new, more powerful form."
+}, {
+    "name": "Statue",
+    "href": "http://paizo.com/pathfinderRPG/prd/coreRulebook/spells/statue.html#statue",
+    "short_description": ": Subject can become a statue at will."
+}, {
+    "name": "Limited Wish",
+    "href": "http://paizo.com/pathfinderRPG/prd/coreRulebook/spells/limitedWish.html#limited-wish",
+    "short_description": "M: Alters reality (within limits)."
+}, {
+    "name": "Mind Blank",
+    "href": "http://paizo.com/pathfinderRPG/prd/coreRulebook/spells/mindBlank.html#mind-blank",
+    "short_description": ": Subject is protected from mental/emotional magic and scrying."
+}, {
+    "name": "Prismatic Wall",
+    "href": "http://paizo.com/pathfinderRPG/prd/coreRulebook/spells/prismaticWall.html#prismatic-wall",
+    "short_description": ": Wall's colors have array of effects."
+}, {
+    "name": "Protection from Spells",
+    "href": "http://paizo.com/pathfinderRPG/prd/coreRulebook/spells/protectionFromSpells.html#protection-from-spells",
+    "short_description": "MF: Confers +8 resistance bonus."
+}, {
+    "name": "Incendiary Cloud",
+    "href": "http://paizo.com/pathfinderRPG/prd/coreRulebook/spells/incendiaryCloud.html#incendiary-cloud",
+    "short_description": ": Cloud deals 6d6 fire damage/round."
+}, {
+    "name": "Maze",
+    "href": "http://paizo.com/pathfinderRPG/prd/coreRulebook/spells/maze.html#maze",
+    "short_description": ": Traps subject in extradimensional maze."
+}, {
+    "name": "Planar Binding, Greater",
+    "href": "http://paizo.com/pathfinderRPG/prd/coreRulebook/spells/planarBinding.html#planar-binding-greater",
+    "short_description": ": As lesser planar binding, but up to 18 HD."
+}, {
+    "name": "Trap the Soul",
+    "href": "http://paizo.com/pathfinderRPG/prd/coreRulebook/spells/trapTheSoul.html#trap-the-soul",
+    "short_description": "M: Imprisons subject within gem."
+}, {
+    "name": "Moment of Prescience",
+    "href": "http://paizo.com/pathfinderRPG/prd/coreRulebook/spells/momentOfPrescience.html#moment-of-prescience",
+    "short_description": ": You gain +1/level insight bonus on single attack roll, check, or save."
+}, {
+    "name": "Prying Eyes, Greater",
+    "href": "http://paizo.com/pathfinderRPG/prd/coreRulebook/spells/pryingEyes.html#prying-eyes-greater",
+    "short_description": ": As prying eyes, but eyes have true seeing."
+}, {
+    "name": "Binding",
+    "href": "http://paizo.com/pathfinderRPG/prd/coreRulebook/spells/binding.html#binding",
+    "short_description": "M: Utilizes an array of techniques to imprison a creature."
+}, {
+    "name": "Demand",
+    "href": "http://paizo.com/pathfinderRPG/prd/coreRulebook/spells/demand.html#demand",
+    "short_description": ": As sending, plus you can send suggestion."
+}, {
+    "name": "Power Word Stun",
+    "href": "http://paizo.com/pathfinderRPG/prd/coreRulebook/spells/powerWordStun.html#power-word-stun",
+    "short_description": ": Stuns creature with 150 hp or less."
+}, {
+    "name": "Clenched Fist",
+    "href": "http://paizo.com/pathfinderRPG/prd/coreRulebook/spells/clenchedFist.html#clenched-fist",
+    "short_description": ": Large hand provides cover, pushes, or attacks your foes."
+}, {
+    "name": "Polar Ray",
+    "href": "http://paizo.com/pathfinderRPG/prd/coreRulebook/spells/polarRay.html#polar-ray",
+    "short_description": ": Ranged touch attack deals 1d6/level cold damage and 1d4 points of Dexterity drain."
+}, {
+    "name": "Telekinetic Sphere",
+    "href": "http://paizo.com/pathfinderRPG/prd/coreRulebook/spells/telekineticSphere.html#telekinetic-sphere",
+    "short_description": ": As resilient sphere, but you move the sphere telekinetically."
+}, {
+    "name": "Scintillating Pattern",
+    "href": "http://paizo.com/pathfinderRPG/prd/coreRulebook/spells/scintillatingPattern.html#scintillating-pattern",
+    "short_description": ": Twisting colors confuse, stun, or render unconscious."
+}, {
+    "name": "Screen",
+    "href": "http://paizo.com/pathfinderRPG/prd/coreRulebook/spells/screen.html#screen",
+    "short_description": ": Illusion hides area from vision and scrying."
+}, {
+    "name": "Shadow Evocation, Greater",
+    "href": "http://paizo.com/pathfinderRPG/prd/coreRulebook/spells/shadowEvocation.html#shadow-evocation-greater",
+    "short_description": ": As shadow evocation, but up to 7th level and 60% real."
+}, {
+    "name": "Clone",
+    "href": "http://paizo.com/pathfinderRPG/prd/coreRulebook/spells/clone.html#clone",
+    "short_description": "MF: Duplicate awakens when original dies."
+}, {
+    "name": "Horrid Wilting",
+    "href": "http://paizo.com/pathfinderRPG/prd/coreRulebook/spells/horridWilting.html#horrid-wilting",
+    "short_description": ": Deals 1d6/level damage within 30 ft."
+}, {
+    "name": "Form of the Dragon III",
+    "href": "http://paizo.com/pathfinderRPG/prd/coreRulebook/spells/formOfTheDragon.html#form-of-the-dragon-iii",
+    "short_description": ": Turns you into a Huge dragon."
+}, {
+    "name": "Giant Form II",
+    "href": "http://paizo.com/pathfinderRPG/prd/coreRulebook/spells/giantForm.html#giant-form-ii",
+    "short_description": ": Turns you into a Huge giant."
+}, {
+    "name": "Iron Body",
+    "href": "http://paizo.com/pathfinderRPG/prd/coreRulebook/spells/ironBody.html#iron-body",
+    "short_description": ": Your body becomes living iron."
+}, {
+    "name": "Polymorph Any Object",
+    "href": "http://paizo.com/pathfinderRPG/prd/coreRulebook/spells/polymorphAnyObject.html#polymorph-any-object",
+    "short_description": ": Changes a subject into anything else."
+}, {
+    "name": "Temporal Stasis",
+    "href": "http://paizo.com/pathfinderRPG/prd/coreRulebook/spells/temporalStasis.html#temporal-stasis",
+    "short_description": "M: Puts subject into suspended animation."
+}, {
+    "name": "Freedom",
+    "href": "http://paizo.com/pathfinderRPG/prd/coreRulebook/spells/freedom.html#freedom",
+    "short_description": ": Releases creature from imprisonment."
+}, {
+    "name": "Imprisonment",
+    "href": "http://paizo.com/pathfinderRPG/prd/coreRulebook/spells/imprisonment.html#imprisonment",
+    "short_description": ": Entombs subject beneath the earth."
+}, {
+    "name": "Mage's Disjunction",
+    "href": "http://paizo.com/pathfinderRPG/prd/coreRulebook/spells/mageSDisjunction.html#mage-s-disjunction",
+    "short_description": ": Dispels magic, disenchants magic items."
+}, {
+    "name": "Prismatic Sphere",
+    "href": "http://paizo.com/pathfinderRPG/prd/coreRulebook/spells/prismaticSphere.html#prismatic-sphere",
+    "short_description": ": As prismatic wall, but surrounds on all sides."
+}, {
+    "name": "Teleportation Circle",
+    "href": "http://paizo.com/pathfinderRPG/prd/coreRulebook/spells/teleportationCircle.html#teleportation-circle",
+    "short_description": "M: Teleports creatures inside circle."
+}, {
+    "name": "Dominate Monster",
+    "href": "http://paizo.com/pathfinderRPG/prd/coreRulebook/spells/dominateMonster.html#dominate-monster",
+    "short_description": ": As dominate person, but any creature."
+}, {
+    "name": "Hold Monster, Mass",
+    "href": "http://paizo.com/pathfinderRPG/prd/coreRulebook/spells/holdMonster.html#hold-monster-mass",
+    "short_description": ": As hold monster, but all within 30 ft."
+}, {
+    "name": "Power Word Kill",
+    "href": "http://paizo.com/pathfinderRPG/prd/coreRulebook/spells/powerWordKill.html#power-word-kill",
+    "short_description": ": Kills one creature with 100 hp or less."
+}, {
+    "name": "Crushing Hand",
+    "href": "http://paizo.com/pathfinderRPG/prd/coreRulebook/spells/crushingHand.html#crushing-hand",
+    "short_description": ": Large hand provides cover, pushes, or crushes your foes."
+}, {
+    "name": "Meteor Swarm",
+    "href": "http://paizo.com/pathfinderRPG/prd/coreRulebook/spells/meteorSwarm.html#meteor-swarm",
+    "short_description": ": Four exploding spheres each deal 6d6 fire damage."
+}, {
+    "name": "Shades",
+    "href": "http://paizo.com/pathfinderRPG/prd/coreRulebook/spells/shades.html#shades",
+    "short_description": ": As shadow conjuration, but up to 8th level and 80% real."
+}, {
+    "name": "Weird",
+    "href": "http://paizo.com/pathfinderRPG/prd/coreRulebook/spells/weird.html#weird",
+    "short_description": ": As phantasmal killer, but affects all within 30 ft."
+}, {
+    "name": "Wail of the Banshee",
+    "href": "http://paizo.com/pathfinderRPG/prd/coreRulebook/spells/wailOfTheBanshee.html#wail-of-the-banshee",
+    "short_description": ": Deals 10 damage/level to 1 creature/level."
+}, {
+    "name": "Time Stop",
+    "href": "http://paizo.com/pathfinderRPG/prd/coreRulebook/spells/timeStop.html#time-stop",
+    "short_description": ": You act freely for 1d4+1 rounds."
+}, {
+    "name": "Wish",
+    "href": "http://paizo.com/pathfinderRPG/prd/coreRulebook/spells/wish.html#wish",
+    "short_description": "M: As limited wish, but with fewer limits."
+}]
