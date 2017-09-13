@@ -84,15 +84,20 @@ const distanceConversions = {
 };
 const timeParseableConversions = {
   'sec': 1 / 6,
+  'immediate': 0.1,
   'action': 0.5,
+  'standard': 0.6,
   'round': 1,
   'rounds': 1,
   'min': 10,
-  'minutes': 10,
+  'min.': 10,
   'mins': 10,
+  'minute': 10,
+  'minutes': 10,
+  'hr': 600,
+  'hr.': 600,
   'hour': 600,
   'hours': 600,
-  'hr': 600,
 }
 const timeConversions = {
   'seconds': timeParseableConversions.sec,
@@ -187,6 +192,21 @@ const createTouchDistance = () => {
   };
 }
 
+const createPersonalTarget = () => {
+  return {
+    'type': 'you',
+    'count': 1,
+    getType: () => 'Target',
+    toString: () => 'personal',
+    getAll: () => {
+      return [
+        ['personal: ', targetDefinitions.personal ],
+      ];
+    },
+    getOriginalString: () => 'creature touched',
+  };
+}
+
 const createTouchTarget = () => {
   return {
     'type': 'creature',
@@ -203,6 +223,54 @@ const createTouchTarget = () => {
 };
 
 
+const createConcentrationTime = () => {
+  return {
+    getTotal: () => 'concentration',
+    getType: () => 'Time',
+    toString: () => {
+      return 'concentration';
+    },
+    getAll: () => {
+      return [
+        ['concentration: ','You can maintain the effect as long as your character is concentrating on it. If you are disturbed you need to make a {---} concentration check.'],
+      ];
+    },
+    getOriginalString: () => 'duration: concentration',
+  };
+};
+
+const createUntilDischargedTime = () => {
+  return {
+    getTotal: () => 'until discharged',
+    getType: () => 'Time',
+    toString: () => {
+      return 'until discharged';
+    },
+    getAll: () => {
+      return [
+        ['until discharged: ','The effect will wait forever until it is triggered, then the spells effect will end.'],
+      ];
+    },
+    getOriginalString: () => 'duration: permanent until discharged',
+  };
+};
+
+const createInstantaneousTime = () => {
+  return {
+    getTotal: () => 'instantaneous',
+    getType: () => 'Time',
+    toString: () => {
+      return 'instantaneous';
+    },
+    getAll: () => {
+      return [
+        ['instantaneous: ','The ability\'s effect is immediate and dissipates immediately after'],
+      ];
+    },
+    getOriginalString: () => 'duration: instantaneous',
+  };
+}
+
 
 export const parseUnit = (input, context) => {
   if (typeof input === 'object' && !input[0]) {
@@ -213,6 +281,8 @@ export const parseUnit = (input, context) => {
   switch(input) {
     case 'creature touched':
       return createTouchTarget();
+    case 'personal':
+      return createPersonalTarget();
     case 'touch':
       return createTouchDistance();
     case 'close':
@@ -227,6 +297,12 @@ export const parseUnit = (input, context) => {
       return createDistance(createComposite({
         base: 400 + 40 * context.caster_level,
       }), distanceConversions.feet, input + ' (400ft + 40ft x level)');
+    case 'concentration':
+      return createConcentrationTime();
+    case 'permanent until discharged':
+      return createUntilDischargedTime();
+    case 'instantaneous':
+      return createInstantaneousTime();
   }
 
   const conversions = {

@@ -1,5 +1,5 @@
 import { View, ColumnView } from './core/native';
-
+import { getstr } from '../translations';
 
 class TabButton extends React.Component {
   constructor(props) {
@@ -9,26 +9,33 @@ class TabButton extends React.Component {
       title: props.tab.title,
       icon: props.tab.icon,
       isActive: props.tab.isActive,
+      isDisabled: props.tab.isDisabled ? true : false,
     }
   }
 
   render() {
     return <div
-      className={'tab-button'+ (this.state.isActive?' active':' inactive')}
+      className={[
+        'tab-button',
+        (this.state.isActive ? 'active' : 'inactive' ),
+        (this.state.isDisabled ? 'disabled' : ''),
+      ].join(' ')}
       onClick={()=>{
-        this.props.onSelect(this.state.title);
+        if ( ! this.state.isDisabled ) {
+          this.props.onSelect(this.state.title);
+        }
       }}>
       {this.state.icon?<div>
         <span
           className={'icon glyphicon glyphicon-' + this.state.icon}
           aria-hidden='true'></span>
       </div>:null}
-      <View>{this.state.title}</View>
+      <View align='center'>{getstr(this.state.title)}</View>
     </div>
   }
 }
 
-export class TopSectionMenu extends React.Component {
+export class TabMenu extends React.Component {
   constructor(props) {
     super(props);
 

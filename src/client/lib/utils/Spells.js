@@ -13,6 +13,7 @@ const schools = [
   'Evocation',
   'Illusion',
   'Necromancy',
+  'Divination',
   'Transmutation',
 ];
 
@@ -26,7 +27,7 @@ const createSpell = ( spell, context, character ) => {
   // {
   //   name: reqd, string
   //   school: reqd, one of school
-  //   level: reqd, integer
+  //   level: reqd, integer or { string: integer }
   //   casting_time: optional, parseable time, default: 1 standard action
   //   effect: {
   //
@@ -38,9 +39,10 @@ const createSpell = ( spell, context, character ) => {
   if ( schools.indexOf(spell.school) === -1 ) {
     throw new Error(`${spell.school} isn't a known school for the spell ${spell.name}`);
   }
-  if ( typeof spell.level !== 'number' ) {
+  if ( typeof spell.level !== 'number' && typeof spell.level !== 'object' ) {
     throw new Error(`${spell.name} doesn't have a level`);
   }
+  spell.level = typeof spell.level === 'number' ? spell.level : spell.level[context.className]
   if ( typeof spell.range !== 'string' && typeof spell.range !== 'object' ) {
     throw new Error(`${spell.name} doesn't have a range`)
   }
@@ -55,7 +57,7 @@ const createSpell = ( spell, context, character ) => {
 
   // Optional casting time, make it 1 standard action
   if ( !spell.casting_time ) {
-    spell.casting_time = '1 action';
+    spell.casting_time = '1 standard';
   }
   spell.casting_time = parseUnit(spell.casting_time, context);
 
@@ -67,8 +69,8 @@ const createSpell = ( spell, context, character ) => {
     spell.target = parseUnit(spell.target, context);
   }
 
-  if( spell.effect && spell.effect.duration ) {
-    spell.effect.duration = parseUnit(spell.effect.duration, context);
+  if( spell.duration ) {
+    spell.duration = parseUnit(spell.duration, context);
   }
 
   spell.dc = createComposite({
@@ -93,7 +95,7 @@ const createSpell = ( spell, context, character ) => {
 
 export const getKnownSpells = (spell_list, character) => {
 
-  console.log(spell_list);
+  //console.log(spell_list);
 
   const spells = [];
   const sources = [
@@ -114,6 +116,7 @@ export const getKnownSpells = (spell_list, character) => {
           const castingStat = 'int';
           const casterLevel = character.levels[castingClass];
 
+          context.className = castingClass;
           context.caster_level = casterLevel;
           context.level = casterLevel;
           context.casting_stat = context[castingStat + '_mod'];
@@ -121,7 +124,7 @@ export const getKnownSpells = (spell_list, character) => {
           // we have "mind" or "spell_book" for where it's stored
           locationList[location].forEach( spellName => {
             // find source:
-            const spell = spell_list[spellName];
+            const spell = _.find(spell_list, { name: spellName});
             if( !spell ) {
               throw new Error('Wtf - no spell named ' + spellName );
             }

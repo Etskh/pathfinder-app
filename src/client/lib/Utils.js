@@ -1,7 +1,7 @@
 'use strict';
 
 import { createUUID, createComposite } from './utils/Core';
-import { getMod, createContext } from './utils/Character';
+import { getMod, getExpByLevel, createContext } from './utils/Character';
 import { parseUnit } from './utils/Units';
 import { getKnownSpells, getAvailableSlots } from './utils/Spells';
 
@@ -13,6 +13,7 @@ export const Utils = {
 
   // Character
   getMod: getMod,
+  getExpByLevel: getExpByLevel,
   createContext: createContext,
 
   // Units

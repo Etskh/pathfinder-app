@@ -3,9 +3,17 @@ import { ButtonModal } from './ButtonModal';
 export class CompositeStat extends React.Component {
   constructor(props) {
     super(props);
+
+    if( ! props.stat ){
+      throw new Error(JSON.stringify({
+        error: 'No stat field in CompositeStat',
+        props: props,
+      }));
+    }
+
     this.state = {
       showPlusMinus: props.showPlusMinus,
-      contextName: props.contextName,
+      contextName: props.contextName || props.name,
       stat: props.stat,
     };
   }

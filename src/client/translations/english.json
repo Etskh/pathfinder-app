@@ -1,0 +1,49 @@
+{
+    "//": "For each string, the left hand field will be the searched string to be translated and the right hand string will be the text that shows to the user. All user text should be translated this way. If an entry is an array, it will have singular version as the first item and plural as the second item. If no plurality is given (a number as the second argument), and the string requires it, then it will throw an error.",
+
+    "//": "---- Menu stuff -----",
+    "Character": "Character",
+    "Combat": "Combat",
+    "Spells": "Spells",
+    "Options": "Options",
+    "World": "World",
+
+    "//": "CHARACTER_STATS",
+    "str_mod": "Strength modifier",
+    "dex_mod": "Dexterity modifier",
+    "con_mod": "Constitution modifier",
+    "wis_mod": "Wisdom modifier",
+    "int_mod": "Intelligence modifier",
+    "cha_mod": "Charisma modifier",
+
+    "//": "UNITS OF MEASUREMENT",
+    "seconds": [
+        "second",
+        "seconds"
+    ],
+    "rounds": [
+        "round",
+        "rounds"
+    ],
+    "minutes": [
+        "minute",
+        "minutes"
+    ],
+    "hours": [
+        "hour",
+        "hours"
+    ],
+    "feet": [
+        "foot",
+        "feet"
+    ],
+    "squares": [
+        "square",
+        "squares"
+    ],
+    "miles": [
+        "mile",
+        "miles"
+    ],
+    "//": "last command to avoid comma nonsense"
+}

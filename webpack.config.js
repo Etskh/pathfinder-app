@@ -16,7 +16,7 @@ var config = {
     filename: 'bundle.js'
   },
   resolve: {
-    extensions: ['.js', '.jsx']
+    extensions: ['.js', '.jsx', '.json']
   },
   module : {
     loaders : [
@@ -38,7 +38,7 @@ var config = {
       filename: 'index.html',
       inject: 'body'
     }),
-    new UglifyJSPlugin(),
+    // new UglifyJSPlugin(),
   ]
 };
 

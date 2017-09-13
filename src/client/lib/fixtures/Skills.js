@@ -21,9 +21,30 @@ const skillLists = [{
   description: 'Like a monkey',
   stat: 'str',
 }, {
-  name: 'Craft',
+  name: 'Craft (weapons)',
   description: 'Makin shit',
   stat: 'int',
+  actions: [{
+    name: 'Create Crossbow',
+    isWorld: true,
+    checkDc: 15,
+  }, {
+    name: 'Create Crossbow Bolts',
+    isWorld: true,
+    checkDc: 15,
+  }, {
+    name: 'Create Simple Melee or Thrown Weapon',
+    isWorld: true,
+    checkDc: 12,
+  }, {
+    name: 'Create Martial Melee or Thrown Weapon',
+    isWorld: true,
+    checkDc: 15,
+  }, {
+    name: 'Create Exotic Melee or Thrown Weapon',
+    isWorld: true,
+    checkDc: 18,
+  }],
 }, {
   name: 'Diplomacy',
   description: 'Make friends',
@@ -105,21 +126,10 @@ const skillLists = [{
   description: 'Be a sneaky mf',
   stat: 'dex',
   smallBonus: true,
-  // Actions that the player gets during the game
-  combatActions: [{
-    name: 'Hide',
-    opposedBy: 'Perception',
-    effect: 'hidden',
-  }],
-  worldActions: [],
 },{
-  //
   name: 'Spellcraft',
   description: 'Do magic shit',
   stat: 'int',
-  // Actions that the player gets during the game
-  combatActions: [],
-  worldActions: [],
 }];
 
 const getCharacterSkills = (character) => {
@@ -180,6 +190,7 @@ const getCharacterSkills = (character) => {
     skills.push({
       name: skill.name,
       bonus: bonuses,
+      actions: skill.actions,
     });
   });
 

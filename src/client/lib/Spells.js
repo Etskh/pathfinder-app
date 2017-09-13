@@ -1,7 +1,9 @@
 
 const spellList = {
   'Message': {
-    level: 0,
+    level: {
+      "wizard": 0,
+    },
     school: 'Transmutation',
     short_description: 'You can whisper messages and receive whispered replies.',
     range: 'medium',
@@ -159,6 +161,8 @@ const spellList = {
 
 export const Spells = {
   getAll: () => {
-    return Promise.resolve(spellList);
+    const spells = require('./fixtures/spell-out');
+
+    return Promise.resolve(spells);
   },
 };

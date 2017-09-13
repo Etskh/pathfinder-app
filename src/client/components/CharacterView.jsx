@@ -1,5 +1,6 @@
-import { ColumnView, RowView, View } from './core/native';
+import { ColumnView, RowView, View, Button, Badge, Header, IconButton } from './core/native';
 import { CompositeStat } from './core/CompositeStat';
+import { ExperienceBar } from './core/ExperienceBar';
 import { Utils } from '../lib/Utils';
 import { Skills } from '../lib/fixtures/Skills';
 
@@ -11,13 +12,13 @@ export class CharacterView extends React.Component {
     const TOP_SKILL_COUNT = 7;
 
     const skills = Skills.getCharacterSkills(props.character);
-    console.log(skills);
     skills.sort( (a, b) => {
       return b.bonus.getTotal() - a.bonus.getTotal();
     });
     const topSkills = skills.splice(0, TOP_SKILL_COUNT);
 
     this.state = {
+      screen: null,
       character: props.character,
       topSkills: topSkills,
       skills: skills,
@@ -50,11 +51,40 @@ export class CharacterView extends React.Component {
     return stats;
   }
 
-  render() {
+  // TODO: generalise this
+  renderBackButton(title) {
+    return <Header>
+        <IconButton
+          icon='chevron-left'
+          onClick={()=>{
+            this.setState({ screen: null })
+          }}
+        />
+        {title}
+      </Header>;
+  }
+
+  renderInfo() {
     const stats = this.getCharacterStats();
+
+    let advancement = null;
+    if( this.state.character.outstandingChoices.length > 0 ) {
+      let choices = this.state.character.outstandingChoices;
+      advancement = <View align='center'>
+        <Button
+          size='large'
+          onClick={()=>{ this.setState({ screen: 'advancement'})}}
+          type='success'>
+          Advancement Choices
+          <Badge>{choices.length}</Badge>
+        </Button>
+      </View>;
+    }
 
     return (<RowView>
       <h1>{this.state.character.name}</h1>
+      {advancement}
+      <ExperienceBar character={this.state.character}/>
       <ColumnView container={false}>
         <View>
           <h2>Stats</h2>
@@ -97,5 +127,37 @@ export class CharacterView extends React.Component {
         </View>
       </ColumnView>
     </RowView>);
+  }
+
+  renderChoice( choice ) {
+    return <View>
+      <Header className={[
+        'advancement',
+        choice.isRequired?'required':'',
+      ].join(' ')}>{choice.type}</Header>
+      <div>{choice.choices}</div>
+    </View>;
+  }
+
+  renderAdvancements() {
+
+    const choices = this.state.character.outstandingChoices;
+    const choiceRenderer = this.renderChoice;
+    return <RowView>
+      {this.renderBackButton('Advancement Choices')}
+      <View>
+        {choices.map( choice => {
+          return choiceRenderer(choice);
+        })}
+      </View>
+    </RowView>
+  }
+
+  render() {
+    switch( this.state.screen) {
+    case 'advancement':
+      return this.renderAdvancements(this.state.advacement);
+    }
+    return this.renderInfo();
   }
 }

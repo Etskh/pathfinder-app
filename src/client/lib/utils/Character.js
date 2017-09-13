@@ -2,6 +2,33 @@
 
 import { createComposite } from './Core';
 
+
+export const getExpByLevel = ( level ) => {
+  const experiences = [
+    0,
+    2000,
+    5000, // 3
+    9000,
+    15000, // 5
+    23000,
+    35000, // 7
+    51000,
+    75000,
+    105000,
+    155000,
+    220000,
+    315000,
+    445000,
+    635000,
+    890000,
+    1300000,
+    1800000,
+    2550000,
+    3600000,
+  ];
+  return experiences[ level - 1];
+}
+
 export const getMod = (score) => {
   return Math.floor(parseFloat((score/2) - 5))
 };

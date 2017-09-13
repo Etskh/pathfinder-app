@@ -1,9 +1,11 @@
 
 const classList = [{
   name: 'Wizard',
+  hd: 6,
+  skillBase: 2,
   caster: 'strong',
   bab: 'slow',
-  fort: 'strong',
+  fort: 'weak',
   ref: 'weak',
   will: 'strong',
   skills: [
@@ -14,6 +16,32 @@ const classList = [{
     'Knowledge (arcana)',
     'Linguistics',
     'Spellcraft',
+  ],
+}, {
+  name: 'Ranger',
+  hd: 10,
+  skillBase: 6,
+  caster: 'weak',
+  bab: 'fast',
+  fort: 'strong',
+  ref: 'strong',
+  will: 'weak',
+  skills: [
+    'Climb',
+    'Craft',
+    'Handle Animal',
+    'Heal',
+    'Intimidate',
+    'Knowledge (dungeoneering)',
+    'Knowledge (geography)',
+    'Knowledge (nature)',
+    'Perception',
+    'Profession',
+    'Ride',
+    'Spellcraft',
+    'Stealth',
+    'Survival',
+    'Swim',
   ],
 }];
 
@@ -30,6 +58,8 @@ const getCasterLevelByLevel = ( casterType, level ) => {
 
 const getBabByLevel = ( bab, level ) => {
   switch( bab ) {
+  case 'fast':
+    return level;
   case 'slow':
     return Math.floor(level / 2);
   }

@@ -4,7 +4,7 @@ import { FancyText } from './core/FancyText';
 import { CompositeStat } from './core/CompositeStat';
 
 export class SpellView extends React.Component {
-  
+
   showSpell(spellId) {
     return () => {
       $('#' + spellId).toggleClass('expanded');
@@ -15,6 +15,9 @@ export class SpellView extends React.Component {
     const spell = this.props.spell;
     const context = this.props.context;
     const zeroLevelName = 'cantrip';
+    if( ! spell.duration.getType ) {
+      console.log(spell);
+    }
 
     return (<div className='spell'>
       <div className="spell-level">{spell.level === 0 ? zeroLevelName: 'level ' + spell.level}</div>
@@ -32,7 +35,6 @@ export class SpellView extends React.Component {
             context={context}
           />
         </div>
-        { spell.effect?
           <div className="action col-xs-12">
             <div className="col-xs-6 target">
               {spell.target?
@@ -46,11 +48,11 @@ export class SpellView extends React.Component {
               }
             </div>
             <div className="col-xs-6 save">
-              {spell.effect.save?
-                <span>{spell.effect.save.type} <CompositeStat
-                  contextName={ spell.effect.save.type + ' Save: '}
+              {spell.save && spell.dc ?
+                <span>{spell.save.type} <CompositeStat
+                  contextName={ spell.save.type + ' Save: '}
                   stat={spell.dc}
-                /> {spell.effect.save.isHarmless?'(harmless)':''}</span>
+                /> {spell.save.isHarmless?'(harmless)':''}</span>
                 :
                 <span>-</span>
               }
@@ -58,21 +60,20 @@ export class SpellView extends React.Component {
             <div className="col-xs-12 effect-text">
               <FancyText
                 context={context}
-                text={spell.effect.text}/>
+                text={spell.text}/>
             </div>
             <div className="col-xs-12 duration">
-              {spell.effect.duration?
+              {spell.duration ?
                 <span>lasts for <UnitModal
-                text={'Duration: ' + spell.effect.duration.toString()}
-                unit={spell.effect.duration}
+                text={'Duration: ' + spell.duration.toString()}
+                unit={spell.duration}
                 context={context}
               /></span>
               :
-              <span>instantaneous</span>
+              <span className="duration">instantaneous</span>
             }
             </div>
           </div>
-        :<span>no description</span>}
       </div> {/* end extra-info container */}
     </div>);
   }

@@ -1,2 +1,6 @@
 # The output directory for tool output
 output
+
+# Python shit
+__pycache__
+*.pyc

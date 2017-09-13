@@ -3,7 +3,11 @@ import { Utils } from '../../lib/Utils';
 /* React native shim */
 export class View extends React.Component {
   render () {
-    return (<div>
+    const style = {
+      textAlign: this.props.align ? this.props.align : 'left',
+    };
+
+    return (<div style={style}>
         {this.props.title?<h4>{this.props.title}</h4>:null}
         {this.props.children}
      </div>);
@@ -65,13 +69,15 @@ export class Button extends React.Component {
 export class IconButton extends React.Component {
   render() {
     return <Button
-      type='default'
+      type={this.props.type || 'default' }
+      size={this.props.size || 'small' }
       style={{marginRight:8}}
       onClick={this.props.onClick}>
       <span
-        style={{fontSize:'175%',}}
+        style={{marginRight:8}}
         className={'icon glyphicon glyphicon-' + this.props.icon}
         aria-hidden='true'></span>
+      {this.props.children}
     </Button>;
   }
 }
@@ -85,7 +91,7 @@ export class Badge extends React.Component {
 export class Header extends React.Component {
   render () {
     return (<div className='col-xs-12'>
-      <h2>{this.props.children}</h2>
+      <h2 className={this.props.className}>{this.props.children}</h2>
     </div>);
   }
 }
@@ -144,5 +150,45 @@ export class RowView extends React.Component {
           </div>;
         })}
       </div>);
+  }
+}
+
+export class DropDown extends React.Component {
+
+  componentDidMount() {
+    $('.dropdown-toggle').dropdown()
+  }
+
+  render() {
+
+    const onSelect = this.props.onSelect;
+    const labelId = Utils.createUuid();
+    const children = [];
+    for( let name in this.props.options) {
+      children.push({
+        name: name,
+        value: this.props.options[name],
+      });
+    }
+
+    // <li role='separator' class='divider'></li>
+
+    return <div className='dropdown'>
+      <button
+        className='btn btn-default dropdown-toggle' type='button' id={labelId} dataToggle='dropdown' ariaHaspopup='true' ariaExpanded='true'>
+        {this.props.children}
+        <span className='caret'></span>
+      </button>
+      <ul className='dropdown-menu' aria-labelledby={labelId}>
+        {children.map( child => {
+          return <li
+              key={Utils.createUuid()}>
+              <a href='#' onClick={()=>{ onSelect(child.value); }}>
+                {child.name}
+              </a>
+            </li>;
+        })}
+      </ul>
+    </div>;
   }
 }
