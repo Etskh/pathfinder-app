@@ -7,14 +7,22 @@
     "Spells": "Spells",
     "Options": "Options",
     "World": "World",
+    "Companions": "Companions",
+    "Items": "Items",
 
-    "//": "CHARACTER_STATS",
+    "//": "---- Character stats -------",
     "str_mod": "Strength modifier",
     "dex_mod": "Dexterity modifier",
     "con_mod": "Constitution modifier",
     "wis_mod": "Wisdom modifier",
     "int_mod": "Intelligence modifier",
     "cha_mod": "Charisma modifier",
+
+
+    "//": "---- Race and Class description ----",
+    "Goblin-troublesome": "Troublesome: Goblins are a race of childlike creatures with a destructive and voracious nature that makes them almost universally despised.",
+    "Goblin-description": "Goblins are very quick, but weak and unlikable. (+4 dexterity, -2 strength, -2 charisma)",
+
 
     "//": "UNITS OF MEASUREMENT",
     "seconds": [

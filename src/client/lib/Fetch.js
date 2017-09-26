@@ -2,7 +2,7 @@ import axios from 'axios';
 
 export const fromLocal = ( key ) => {
   return Promise.resolve( localStorage.getItem(key));
-}
+};
 
 export const toLocal = ( key, value ) => {
   try {
@@ -12,7 +12,7 @@ export const toLocal = ( key, value ) => {
     return Promise.reject(err);
   }
   return Promise.resolve(value);
-}
+};
 
 const API_PATH = 'http://localhost:8000/api';
 export const fromWeb = ( objectType, id ) => {
@@ -22,4 +22,4 @@ export const fromWeb = ( objectType, id ) => {
   });
 
   //return Promise.resolve( null );
-}
+};

@@ -13,6 +13,7 @@ module.exports = [{
     after: [
       5,4,5,4,5,4
     ],
+    current: 15,
   },
   base_stats: {
     str: 16,

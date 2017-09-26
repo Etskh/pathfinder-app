@@ -42,7 +42,7 @@ const createSpell = ( spell, context, character ) => {
   if ( typeof spell.level !== 'number' && typeof spell.level !== 'object' ) {
     throw new Error(`${spell.name} doesn't have a level`);
   }
-  spell.level = typeof spell.level === 'number' ? spell.level : spell.level[context.className]
+  spell.level = typeof spell.level === 'number' ? spell.level : spell.level[context.className.toLowerCase()]
   if ( typeof spell.range !== 'string' && typeof spell.range !== 'object' ) {
     throw new Error(`${spell.name} doesn't have a range`)
   }
@@ -94,8 +94,8 @@ const createSpell = ( spell, context, character ) => {
 
 
 export const getKnownSpells = (spell_list, character) => {
-
-  //console.log(spell_list);
+  console.log(spell_list);
+  console.log(character);
 
   const spells = [];
   const sources = [

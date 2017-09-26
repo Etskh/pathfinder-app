@@ -69,6 +69,7 @@ export class Button extends React.Component {
 export class IconButton extends React.Component {
   render() {
     return <Button
+      disabled={this.props.disabled || false }
       type={this.props.type || 'default' }
       size={this.props.size || 'small' }
       style={{marginRight:8}}
@@ -91,7 +92,11 @@ export class Badge extends React.Component {
 export class Header extends React.Component {
   render () {
     return (<div className='col-xs-12'>
-      <h2 className={this.props.className}>{this.props.children}</h2>
+      <h2
+        style={{textAlign:this.props.align || 'left'}}
+        className={this.props.className}>
+        {this.props.children}
+      </h2>
     </div>);
   }
 }
@@ -154,15 +159,21 @@ export class RowView extends React.Component {
 }
 
 export class DropDown extends React.Component {
-
+  constructor(props) {
+    super(props);
+    this.state = {
+      dropDownId: Utils.createUuid(),
+    };
+  }
   componentDidMount() {
+    // Because we can't pass this into React
+    $('#' + this.state.dropDownId).data('toggle', 'dropdown');
     $('.dropdown-toggle').dropdown()
   }
 
   render() {
 
     const onSelect = this.props.onSelect;
-    const labelId = Utils.createUuid();
     const children = [];
     for( let name in this.props.options) {
       children.push({
@@ -175,11 +186,11 @@ export class DropDown extends React.Component {
 
     return <div className='dropdown'>
       <button
-        className='btn btn-default dropdown-toggle' type='button' id={labelId} dataToggle='dropdown' ariaHaspopup='true' ariaExpanded='true'>
+        className='btn btn-default dropdown-toggle' type='button' id={this.state.dropDownId}>
         {this.props.children}
         <span className='caret'></span>
       </button>
-      <ul className='dropdown-menu' aria-labelledby={labelId}>
+      <ul className='dropdown-menu' ariaLabelledby={this.state.dropDownId}>
         {children.map( child => {
           return <li
               key={Utils.createUuid()}>
