@@ -59,3 +59,7 @@ typings/
 
 # dotenv environment variables file
 .env
+
+8# Now also pythonic things
+__pycache__
+.pyc
